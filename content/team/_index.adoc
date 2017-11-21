@@ -1,0 +1,54 @@
+---
+categories: [ "team" ]
+title: "Team"
+date: "2017-11-20T16:59:48-08:00"
+draft: false
+tags: [ "team" ]
+---
+
+
+== Garrett D'Amore, CTO & Founder
+
+image::/img/garrett.png[,133,float="right"]
+
+Garrett has over 2 decades of experience building technologies
+for networking, systems, and storage, and leading technical teams to success.
+
+He is most widely known as
+the founder of http://www.illumos.org[illumos], and the maintainer of
+http://www.nanomsg.org[nanomsg], but has developed software used in
+http://www.freebsd.org[FreeBSD], http://www.netbsd.org[NetBSD],
+http://www.oracle.com/solaris[Solaris], http://www.openzfs.org[ZFS] and others.
+
+He was also well known for his work at Sun on the PSARC committee,
+which was responsible for the technical direction of Solaris.
+
+Garrett led technical teams at companies like AMD, Qualcomm,
+Nexenta, and Sun Microsystems, as well as smaller companies like DEY
+Storage Systems.  Distributed team technical leadership is a core competency
+for Garrett.
+
+Garrett holds a Bachelor's Degree in Computer Science from San Diego State
+University.
+
+At Staysail, Garrett is responsible for the day to day engineering tasks
+of the company.
+
+Garrett currently lives in North San Diego county.
+
+== Evgeniia D'Amore, Director of Finance
+
+image::/img/evgeniia.jpeg[,133,float="right"]
+
+Evgeniia (Jeny) hails from Russia, where she worked in the banking industry as
+a senior
+bank accountant in Chelyabinsk, Russia. A Snezhinsky Bank, she was responsible
+for handling accounts in Snezhinsky's consumer mortage department.
+
+Evgeniia's education includes a Master's in Finance and Economics from
+the Russian Institute of Economics, Chelyabinsk.
+
+At Staysail, Jeny handles all of our daily accounting, including customer
+billing, payroll, and financial reporting.
+
+Evgeniia currently lives in North San Diego county.

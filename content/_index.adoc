@@ -1,0 +1,9 @@
+Staysail offers solutions for high performance messaging, distributed systems
+orchestration, and network storage.
+
+We offer custom development, as well as our own software solutions and
+integration services for off-the-self.  To
+find out more, mailto:info@staysail.tech[contact us].
+
+We are open-source friendly, and frequent contributors to many
+open source projects.

@@ -1,0 +1,16 @@
+---
+categories: [ "about" ]
+title: "About"
+date: "2017-11-20T16:59:48-08:00"
+draft: false
+tags: [ "about" ]
+---
+
+Staysail Systems develops software for distributed and embedded systems,
+ranging from IoT embedded devices to large scale enterprise systems.
+
+We are experts in scalable and performant communications.
+
+Staysail is also a contributor to the open source ecosystem; we develop
+in C and Go, and our founders have produced some of the more widely
+used systems that power the Internet today.

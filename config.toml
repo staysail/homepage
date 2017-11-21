@@ -1,0 +1,41 @@
+baseurl = "http://staysail.tech/"
+DefaultContentLanguage = "en"
+metaDataFormat = "yaml"
+pygmentsUseClasses = true
+pygmentCodeFences = true
+#disqusShortname = "XXX"
+#googleAnalytics = "XXX"
+#canonifyurls = false
+publishdir = "docs"
+title = "Staysail Systems"
+theme = "staysail"
+
+[Params]
+    subtitle = "Performant, scalable, maintainable systems software engineered with pride and craftsmanship."
+#  Pick any three."
+#  Bespoke systems software, engineered with craftsmanship."
+    logo = "img/staysail.png"
+    #favicon = "XXX.ico"
+    dateFormat    = "January 2, 2006"
+    comments = false
+    rss = false
+
+[Author]
+  name = "Staysail Systems, Inc."
+  website = "www.staysail.tech"
+  email = "info@staysail.tech"
+  linkedin = "garrettd1"
+  twitter = "gedamore"
+  github = "staysail"
+
+[[menu.main]]
+ name = "About"
+ identifier = "about"
+ weight = 1
+ url = "/about/"
+
+[[menu.main]]
+  name = "Team"
+  identifier = "team"
+  weight = 2
+  url = "/team/"
