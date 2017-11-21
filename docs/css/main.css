@@ -1,7 +1,6 @@
 /* --- General --- */
 
 body {
-/*  font-family: 'Lora', 'Times New Roman', serif; */
   font-family: 'Open Sans', sans-serif;
   font-size: 18px;
   color: #404040;
@@ -48,6 +47,7 @@ hr.small {
   border-width: 4px;
   border-color: inherit;
   border-radius: 3px;
+   color: #1e468f;
 }
 
 .main-content {

@@ -7,10 +7,12 @@
             {{- if isset $.Site.Author .id }}
               <li>
                 <a href="{{ printf .url (index $.Site.Author .id) }}" title="{{ .title }}">
+                  <font color="#1e468f">
                   <span class="fa-stack fa-lg">
                     <i class="fa fa-circle fa-stack-2x"></i>
                     <i class="fa {{ .icon }} fa-stack-1x fa-inverse"></i>
                   </span>
+                  </font>
                 </a>
               </li>
             {{- end -}}
@@ -27,21 +29,10 @@
           {{ end }}
         </ul>
         <p class="credits copyright text-muted">
-          {{ if .Site.Author.name }}
-            {{ if .Site.Author.website }}
-              <a href="{{ .Site.Author.website }}">{{ .Site.Author.name }}</a>
-            {{ else }}
-              {{ .Site.Author.name }}
-            {{ end }}
-          {{ end }}
-
-          &nbsp;&bull;&nbsp;
-          {{ .Site.LastChange.Format "2006" }}
-
-          {{ if .Site.Title }}
-            &nbsp;&bull;&nbsp;
-            <a href="{{ "" | absLangURL }}">{{ .Site.Title }}</a>
-          {{ end }}
+&copy; 2017 Staysail Systems, Inc.  All rights reserved.
+<br />
+Staysail Systems and the Staysail logo are &trade; 2017 Staysail Systems, Inc.
+<!--          {{ .Site.LastChange.Format "2006" }} -->
         </p>
         <!-- Please don't remove this, keep my open source work credited :) -->
         <p class="credits theme-by text-muted">
