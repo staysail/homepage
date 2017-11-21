@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Staysail Systems</title>
+    <link>http://staysail.tech/</link>
+    <description>Recent content on Staysail Systems</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>info@staysail.tech (Staysail Systems, Inc.)</managingEditor>
+    <webMaster>info@staysail.tech (Staysail Systems, Inc.)</webMaster>
+    
+	<atom:link href="http://staysail.tech/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

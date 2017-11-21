@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Team on Staysail Systems</title>
+    <link>http://staysail.tech/categories/team/</link>
+    <description>Recent content in Team on Staysail Systems</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>info@staysail.tech (Staysail Systems, Inc.)</managingEditor>
+    <webMaster>info@staysail.tech (Staysail Systems, Inc.)</webMaster>
+    <lastBuildDate>Mon, 20 Nov 2017 16:59:48 -0800</lastBuildDate>
+    
+	<atom:link href="http://staysail.tech/categories/team/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Team</title>
+      <link>http://staysail.tech/team/</link>
+      <pubDate>Mon, 20 Nov 2017 16:59:48 -0800</pubDate>
+      <author>info@staysail.tech (Staysail Systems, Inc.)</author>
+      <guid>http://staysail.tech/team/</guid>
+      <description>Garrett D&amp;#8217;Amore, CTO &amp;amp; Founder   Garrett has over 2 decades of experience building technologies for networking, systems, and storage, and leading technical teams to success.
+ He is most widely known as the founder of illumos, and the maintainer of nanomsg, but has developed software used in FreeBSD, NetBSD, Solaris, ZFS and others.
+ He was also well known for his work at Sun on the PSARC committee, which was responsible for the technical direction of Solaris.</description>
+    </item>
+    
+  </channel>
+</rss>

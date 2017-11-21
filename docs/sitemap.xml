@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://staysail.tech/about/</loc>
+    <lastmod>2017-11-20T16:59:48-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://staysail.tech/team/</loc>
+    <lastmod>2017-11-20T16:59:48-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://staysail.tech/</loc>
+  </url>
+  
+  <url>
+    <loc>http://staysail.tech/tags/about/</loc>
+    <lastmod>2017-11-20T16:59:48-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://staysail.tech/categories/about/</loc>
+    <lastmod>2017-11-20T16:59:48-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://staysail.tech/categories/</loc>
+    <lastmod>2017-11-20T16:59:48-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://staysail.tech/tags/</loc>
+    <lastmod>2017-11-20T16:59:48-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://staysail.tech/tags/team/</loc>
+    <lastmod>2017-11-20T16:59:48-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://staysail.tech/categories/team/</loc>
+    <lastmod>2017-11-20T16:59:48-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
