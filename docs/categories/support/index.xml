@@ -18,8 +18,7 @@
       <pubDate>Mon, 20 Nov 2017 16:59:48 -0800</pubDate>
       <author>info@staysail.tech (Staysail Systems, Inc.)</author>
       <guid>http://staysail.tech/support/mangos/</guid>
-      <description>Mangos Commercial Support img::https://github.com/go-mangos/mangos/raw/master/mangos.jpg[float=&#34;right&#34;]
- Garrett D&amp;#8217;Amore is the principal author and maintainer of mangos. While mangos itself is free, Staysail Systems offers commercial support and custom development around mangos and related software.
+      <description>Mangos Commercial Support   Garrett D&amp;#8217;Amore is the principal author and maintainer of mangos. While mangos itself is free, Staysail Systems offers commercial support and custom development around mangos and related software.
  We have experience engineering complete cloud orchestration solutions using mangos as the primary transport fabric, including service discovery, RPCs, and microservices; we can do the same for you.
  Options for both hourly and project-bid support are available.</description>
     </item>
