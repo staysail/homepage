@@ -9,7 +9,7 @@ tags: [ "support", "mangos" ]
 
 == Mangos Commercial Support
 
-image::https://github.com/go-mangos/mangos/raw/master/mangos.jpg[float="right"]
+image::https://github.com/go-mangos/mangos/raw/master/mangos.jpg[,200,float="right"]
 
 Garrett D'Amore is the principal author and maintainer of
 https://github.com/go-mangos/mangos[mangos].  While mangos itself
