@@ -23,5 +23,16 @@
  He was also well known for his work at Sun on the PSARC committee, which was responsible for the technical direction of Solaris.</description>
     </item>
     
+    <item>
+      <title>Books</title>
+      <link>http://staysail.tech/books/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>info@staysail.tech (Staysail Systems, Inc.)</author>
+      <guid>http://staysail.tech/books/</guid>
+      <description>Books We Have Published In addition to offering custom development and consulting services, we at Staysail Systems have authored the following books, helping us to share our expertise with you.
+       NNG Reference Manual
+Written by Garrett D&amp;#8217;Amore This manual is the authoritative and official reference for the NNG project, encompassing the entire set of manual pages produced for the project. While the content is available as part of the NNG project, you can also purchase a soft-copy desk edition, or electronic book formats compatible with all popular e-readers.</description>
+    </item>
+    
   </channel>
 </rss>
