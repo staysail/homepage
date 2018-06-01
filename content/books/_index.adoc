@@ -2,7 +2,7 @@
 categories: [ "books" ]
 title: "Books"
 draft: false
-tags: [ "team" ]
+tags: [ "books", "NNG" ]
 ---
 
 
@@ -24,22 +24,11 @@ project, encompassing the entire set of manual pages produced for
 the project.
  +
  +
-While the content is available as part of the NNG project, you can
-also purchase a soft-copy desk edition, or electronic book formats
-compatible with all popular e-readers.
- +
- +
-
-[%autowidth.spread,width="100%",stripes="none",frame=none,grid=none,width="100%"]
-!===
-! Paperback+++<br/>+++(7.5" x 9.5", 422 pages) a!  _coming soon_
-! PDF+++<br/>+++ (8.5" x 11", 377 pages) a! http://leanpub.com/nngmanual[Leanpub]
-! EPUB ! http://leanpub.com/nngmanual[Leanpub]
-! Mob ! http://leanpub.com/nngmanual[Leanpub]
-!===
+For more information, including purchasing and availability, please see the
+<<nng_reference/index.adoc#,homepage>> for the book.
 
 a|image::../img/staysail.png[,255]
-a|__**Distributed Systems Mastery**__ +
+a|__**Distributed Systems Mastery: An NNG Developer's Guide**__ +
 _Written by Garrett D'Amore_
  +
  +

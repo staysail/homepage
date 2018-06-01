@@ -33,6 +33,11 @@
   </url>
   
   <url>
+    <loc>http://staysail.tech/tags/books/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://staysail.tech/categories/books/</loc>
     <priority>0</priority>
   </url>
@@ -48,8 +53,31 @@
   </url>
   
   <url>
+    <loc>http://staysail.tech/tags/errata/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://staysail.tech/tags/mangos/</loc>
     <lastmod>2017-11-20T16:59:48-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://staysail.tech/books/nng_reference/</loc>
+  </url>
+  
+  <url>
+    <loc>http://staysail.tech/books/nng_reference/errata/</loc>
+  </url>
+  
+  <url>
+    <loc>http://staysail.tech/tags/nng/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://staysail.tech/tags/nng-reference-manual/</loc>
     <priority>0</priority>
   </url>
   

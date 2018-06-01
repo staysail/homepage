@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nng Reference Manual on Staysail Systems</title>
+    <link>http://staysail.tech/tags/nng-reference-manual/</link>
+    <description>Recent content in Nng Reference Manual on Staysail Systems</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>info@staysail.tech (Staysail Systems, Inc.)</managingEditor>
+    <webMaster>info@staysail.tech (Staysail Systems, Inc.)</webMaster>
+    
+	<atom:link href="http://staysail.tech/tags/nng-reference-manual/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>NNG Reference Manual</title>
+      <link>http://staysail.tech/books/nng_reference/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>info@staysail.tech (Staysail Systems, Inc.)</author>
+      <guid>http://staysail.tech/books/nng_reference/</guid>
+      <description>Written by Garrett D&amp;#8217;Amore This manual is the authoritative and official reference for the NNG project, encompassing the entire set of manual pages produced for the project.
+   Availability While the content is available as part of the NNG project, you can also purchase a paperback desk edition, or electronic book formats compatible with all popular e-readers.
+ If you plan to buy an eBook version, please consider purchasing from Leanpub.</description>
+    </item>
+    
+  </channel>
+</rss>

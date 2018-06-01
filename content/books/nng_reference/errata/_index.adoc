@@ -1,0 +1,23 @@
+---
+categories: [ "books" ]
+title: "NNG Reference Manual (Errata)"
+draft: false
+tags: [ "errata", "books", "NNG" ]
+---
+
+== Errata
+
+This page lists errata for books that we have published.
+
+=== _NNG Reference Manual_ (First Edition, May 2018)
+
+Only issues found with the *books* are reported here. 
+The NNG manual pages located on the NNG are tracked and updated
+using the https://github.com/nanomsg/nng/issues[NNG GitHub Issues]
+page.
+
+1. The description for `nng_recv()` fails to mention that
+   `NNG_FLAG_NONBLOCK` may be used for non-blocking operation.
+   The description  of `nng_recvmsg()` does describe this flag, and
+   the description located there can be used in the meantime.
+   (https://github.com/nanomsg/nng/issues/503[NNG GitHub Issue])

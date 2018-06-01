@@ -1,0 +1,57 @@
+---
+categories: [ "books" ]
+title: "NNG Reference Manual"
+draft: false
+tags: [ "books", "NNG", "NNG Reference Manual" ]
+---
+
+image::../../img/nng_manual_thumb.png[width=180,role="thumb",float="right"]
+
+== _Written by Garrett D'Amore_
+
+This manual is the authoritative and official reference for the NNG
+project, encompassing the entire set of manual pages produced for
+the project.
+ 
+== Availability
+
+While the content is available as part of the NNG project, you can
+also purchase a paperback desk edition, or electronic book formats
+compatible with all popular e-readers.
+
+If you plan to buy an eBook version, please consider purchasing from 
+http://leanpub.com/nngmanual[Leanpub].
+You can choose your own price less this way, and Leanpub takes significantly
+less from authors than other venues.
+
+By the way, the electronic versions of this book are also available
+for *free* from Leanpub.  If you've already purchased any version of the book,
+you are encouraged to make use of these free downloads.
+
+Otherwise, we do suggest you consider purchasing a copy in the
+format of your choosing.  Purchases of this book help defray the costs
+incurred in producing it and keeping it updated, and also help fund
+further development of NNG itself.
+
+[%autowidth.spread,width="100%",stripes="none",frame=none,grid=none,width="100%"]
+|===
+| Format | Availability 
+
+| Paperback+++<br/>+++(7.5" x 9.5", 422 pages) a|  _coming soon_
+
+| PDF+++<br/>+++ (8.5" x 11", 377 pages) a| http://leanpub.com/nngmanual[Leanpub]
+| EPUB | http://leanpub.com/nngmanual[Leanpub]
+| Mobi | http://leanpub.com/nngmanual[Leanpub]
+|===
+
+> Please contact us to inquire about discount availability for the printed
+> edition if you have already purchased the eBook for at least $9.99 before
+> June 1, 2018.  (Proof of purchase including the date will be required.)
+> These discounts on the printed edition will be offered until October 1, 2018.
+
+> At the moment we have no plans to produce a hardcover edition, but we
+> would be happy to do so given sufficient demand.
+
+== Errata
+
+The errata for this book are <<errata/index.adoc#,here>>.

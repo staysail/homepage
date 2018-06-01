@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Errata on Staysail Systems</title>
+    <link>http://staysail.tech/tags/errata/</link>
+    <description>Recent content in Errata on Staysail Systems</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>info@staysail.tech (Staysail Systems, Inc.)</managingEditor>
+    <webMaster>info@staysail.tech (Staysail Systems, Inc.)</webMaster>
+    
+	<atom:link href="http://staysail.tech/tags/errata/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>NNG Reference Manual (Errata)</title>
+      <link>http://staysail.tech/books/nng_reference/errata/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>info@staysail.tech (Staysail Systems, Inc.)</author>
+      <guid>http://staysail.tech/books/nng_reference/errata/</guid>
+      <description>Errata This page lists errata for books that we have published.
+ NNG Reference Manual (First Edition, May 2018) Only issues found with the books are reported here. The NNG manual pages located on the NNG are tracked and updated using the NNG GitHub Issues page.
+  The description for nng_recv() fails to mention that NNG_FLAG_NONBLOCK may be used for non-blocking operation. The description of nng_recvmsg() does describe this flag, and the description located there can be used in the meantime.</description>
+    </item>
+    
+  </channel>
+</rss>
