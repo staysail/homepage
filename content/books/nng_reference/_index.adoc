@@ -37,7 +37,7 @@ further development of NNG itself.
 |===
 | Format | Availability 
 
-| Paperback+++<br/>+++(7.5" x 9.5", 422 pages) a|  _coming soon_
+| Paperback+++<br/>+++(7.5" x 9.5", 422 pages) a|  https://www.amazon.com/dp/1732423407[Amazon]
 
 | PDF+++<br/>+++ (8.5" x 11", 377 pages) a| http://leanpub.com/nngmanual[Leanpub]
 | EPUB | http://leanpub.com/nngmanual[Leanpub]
