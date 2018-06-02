@@ -55,3 +55,8 @@ further development of NNG itself.
 == Errata
 
 The errata for this book are <<errata/index.adoc#,here>>.
+
+== Translations
+
+At this time only English is available.  If you are interested in
+translating this content, please mailto:info@staysail.tech[let us know]!

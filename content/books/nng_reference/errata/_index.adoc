@@ -21,3 +21,13 @@ page.
    The description  of `nng_recvmsg()` does describe this flag, and
    the description located there can be used in the meantime.
    (https://github.com/nanomsg/nng/issues/503[NNG GitHub Issue])
+
+2. (Only in the paperback printed edition.)  The frontmatter indicates
+   that the book is printed in the United States.  We have changed the
+   distribution network we use to gain global reach, and it's likely
+   that if you buy the book somewhere *other* than United States, that
+   book will have been printed somewhere closer to you.  This is both
+   more economical, and more environnmentally friendly, as we don't need to
+   ship dead trees around the world.  (For instance
+   at this time, most copies sold in Europe are actually printed in the
+   UK.)  The next edition will simply remove this wording.
