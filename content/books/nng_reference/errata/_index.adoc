@@ -9,12 +9,29 @@ tags: [ "errata", "books", "NNG" ]
 
 This page lists errata for books that we have published.
 
-=== _NNG Reference Manual_ (First Edition, May 2018)
+=== _NNG Reference Manual_ (First Edition, May 2018 and June 2018)
 
 Only issues found with the *books* are reported here. 
 The NNG manual pages located on the NNG are tracked and updated
 using the https://github.com/nanomsg/nng/issues[NNG GitHub Issues]
 page.
+
+****
+There are two versions of the first edition.  The May 2018 printed
+edition is printed by Ingram Spark on cream paper, and uses full
+justification throughout.  The June 2018 printed edition is printed by
+Amazon, and uses left justified text on white paper.  The only other
+changes are some extremely minor changes to the front matter, and
+repagination to cope with larger margin requirements at Amazon.
+Consequently, the June 2018 edition is 430 pages instead of 424.
+
+The eBooks likewise have both May and June editions, with the only
+differences being a switch to left justification of the text and
+minor adjustments to the front matter.
+
+No interior content (wording) was changed between the May and June 2018
+versions.  Consequently, the ISBNs were not changed.
+****
 
 1. The description for `nng_recv()` fails to mention that
    `NNG_FLAG_NONBLOCK` may be used for non-blocking operation.
@@ -22,7 +39,7 @@ page.
    the description located there can be used in the meantime.
    (https://github.com/nanomsg/nng/issues/503[NNG GitHub Issue])
 
-2. (Only in the paperback printed edition.)  The frontmatter indicates
+2. (Only in the May 2018 paperback printed edition.)  The frontmatter indicates
    that the book is printed in the United States.  We have changed the
    distribution network we use to gain global reach, and it's likely
    that if you buy the book somewhere *other* than United States, that
@@ -30,4 +47,13 @@ page.
    more economical, and more environnmentally friendly, as we don't need to
    ship dead trees around the world.  (For instance
    at this time, most copies sold in Europe are actually printed in the
-   UK.)  The next edition will simply remove this wording.
+   UK.)
+
+3. If you got the May 2018 Kindle download from Amazon, there are numerous
+   formatting errors caused by Ingram's poor conversion of ePub to MOBI.
+   The June 2018 version corrects those errors.  It also has a lower list
+   price of $9.99.
+
+4. The Kindle editions from Amazon seem to have lost the visual icons
+   for "TIP", "NOTE", and "IMPORTANT" indicators.  This is a limitation on
+   some Kindle readers.  We will use images instead for the next edition.
