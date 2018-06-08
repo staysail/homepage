@@ -232,6 +232,12 @@ price of $9.99.</p>
 for "TIP", "NOTE", and "IMPORTANT" indicators.  This is a limitation on
 some Kindle readers.  We will use images instead for the next edition.</p>
 </li>
+<li>
+<p>Various man pages for supplement HTTP and TLS functions refer to
+symbols using the prefix <code>nni_</code> such as <code>nni_tls_config</code>.  These
+names are internal, and should have been documented with <code>nng_</code> prefixes.
+In your own code, replace any occurrence of <code>nni_</code> with <code>nng_</code>.</p>
+</li>
 </ol>
 </div>
 </div>

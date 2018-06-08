@@ -57,3 +57,8 @@ versions.  Consequently, the ISBNs were not changed.
 4. The Kindle editions from Amazon seem to have lost the visual icons
    for "TIP", "NOTE", and "IMPORTANT" indicators.  This is a limitation on
    some Kindle readers.  We will use images instead for the next edition.
+
+5. Various man pages for supplement HTTP and TLS functions refer to
+   symbols using the prefix `nni_` such as `nni_tls_config`.  These
+   names are internal, and should have been documented with `nng_` prefixes.
+   In your own code, replace any occurrence of `nni_` with `nng_`.
