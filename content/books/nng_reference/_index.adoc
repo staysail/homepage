@@ -33,7 +33,7 @@ further development of NNG itself.
 
 | eBook
 a|
-image:../../img/staysail.png[Staysail,60,60,float="left",align="center",link="http://https://garrettdamore.selz.com/item/nng-reference-manual"]
+image:../../img/staysail.png[Staysail,60,60,float="left",align="center",link="https://garrettdamore.selz.com/item/nng-reference-manual"]
 image:../../img/kindle.png[Kindle,198,73,float="left",align="center",link="https://amzn.com/B07DK5JGNP"]
 image:../../img/smashwords.png[Smashwords,97,73,float="left",link="https://www.smashwords.com/books/view/838810"]
 image:../../img/leanpub.png[Leanpub,144,73,float="left",link="http://leanpub.com/nngmanual"]
