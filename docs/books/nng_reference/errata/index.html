@@ -8,14 +8,16 @@
   <title>NNG Reference Manual (Errata)</title>
   <meta property="og:title" content="NNG Reference Manual (Errata)" />
   <meta name="twitter:title" content="NNG Reference Manual (Errata)" />
-  <meta name="description" content="Errata This page lists errata for books that we have published.
- NNG Reference Manual (First Edition, May 2018 and June 2018) Only issues found with the books are reported here. The NNG manual pages located on the NNG are tracked and updated using the NNG GitHub Issues page.
+  <meta name="description" content="NNG Reference Manual (First Edition, May 2018 and June 2018)
+ Only issues found with the books are reported here. The NNG manual pages located on the NNG are tracked and updated using the NNG GitHub Issues page.
+ We went to press with this edition before 1.0.0 was officially released, and some last minute changes and discoveries were made.
  There are two versions of the first edition. The May 2018 printed edition is printed by Ingram Spark on cream paper, and uses full justification throughout.">
-  <meta property="og:description" content="Errata This page lists errata for books that we have published.
- NNG Reference Manual (First Edition, May 2018 and June 2018) Only issues found with the books are reported here. The NNG manual pages located on the NNG are tracked and updated using the NNG GitHub Issues page.
+  <meta property="og:description" content="NNG Reference Manual (First Edition, May 2018 and June 2018)
+ Only issues found with the books are reported here. The NNG manual pages located on the NNG are tracked and updated using the NNG GitHub Issues page.
+ We went to press with this edition before 1.0.0 was officially released, and some last minute changes and discoveries were made.
  There are two versions of the first edition. The May 2018 printed edition is printed by Ingram Spark on cream paper, and uses full justification throughout.">
-  <meta name="twitter:description" content="Errata This page lists errata for books that we have published.
- NNG Reference Manual (First Edition, May 2018 and June 2018) Only issues found with the books are reported here. The NNG manual pages …">
+  <meta name="twitter:description" content="NNG Reference Manual (First Edition, May 2018 and June 2018)
+ Only issues found with the books are reported here. The NNG manual pages located on the NNG are tracked and updated using the NNG GitHub …">
   <meta name="author" content="Staysail Systems, Inc."/>
   <meta property="og:image" content="http://staysail.tech/img/staysail.png" />
   <meta name="twitter:image" content="http://staysail.tech/img/staysail.png" />
@@ -165,19 +167,20 @@
       <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
         
           <div class="well">
-            <div class="sect1">
-<h2 id="_errata">Errata</h2>
-<div class="sectionbody">
+            <div class="sect2">
+<h3 id="_em_nng_reference_manual_em"><em>NNG Reference Manual</em></h3>
 <div class="paragraph">
-<p>This page lists errata for books that we have published.</p>
+<p>(First Edition, May 2018 and June 2018)</p>
 </div>
-<div class="sect2">
-<h3 id="_em_nng_reference_manual_em_first_edition_may_2018_and_june_2018"><em>NNG Reference Manual</em> (First Edition, May 2018 and June 2018)</h3>
 <div class="paragraph">
 <p>Only issues found with the <strong>books</strong> are reported here.
 The NNG manual pages located on the NNG are tracked and updated
 using the <a href="https://github.com/nanomsg/nng/issues">NNG GitHub Issues</a>
 page.</p>
+</div>
+<div class="paragraph">
+<p>We went to press with this edition before 1.0.0 was officially released,
+and some last minute changes and discoveries were made.</p>
 </div>
 <div class="sidebarblock">
 <div class="content">
@@ -238,9 +241,15 @@ symbols using the prefix <code>nni_</code> such as <code>nni_tls_config</code>. 
 names are internal, and should have been documented with <code>nng_</code> prefixes.
 In your own code, replace any occurrence of <code>nni_</code> with <code>nng_</code>.</p>
 </li>
+<li>
+<p>The ZeroTier transport does not require a development branch
+of the ZeroTierOne tree.  See the file BUILD_ZEROTIER.adoc in the
+doc subdirectory of the NNG distribution for more current information.</p>
+</li>
+<li>
+<p>The IPC transport <strong>does</strong> accept relative URLs.</p>
+</li>
 </ol>
-</div>
-</div>
 </div>
 </div>
 

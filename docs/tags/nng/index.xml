@@ -39,8 +39,9 @@ Written by Garrett D&amp;#8217;Amore This manual is the authoritative and offici
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>info@staysail.tech (Staysail Systems, Inc.)</author>
       <guid>http://staysail.tech/books/nng_reference/errata/</guid>
-      <description>Errata This page lists errata for books that we have published.
- NNG Reference Manual (First Edition, May 2018 and June 2018) Only issues found with the books are reported here. The NNG manual pages located on the NNG are tracked and updated using the NNG GitHub Issues page.
+      <description>NNG Reference Manual (First Edition, May 2018 and June 2018)
+ Only issues found with the books are reported here. The NNG manual pages located on the NNG are tracked and updated using the NNG GitHub Issues page.
+ We went to press with this edition before 1.0.0 was officially released, and some last minute changes and discoveries were made.
  There are two versions of the first edition. The May 2018 printed edition is printed by Ingram Spark on cream paper, and uses full justification throughout.</description>
     </item>
     

@@ -5,16 +5,17 @@ draft: false
 tags: [ "errata", "books", "NNG" ]
 ---
 
-== Errata
+=== _NNG Reference Manual_
 
-This page lists errata for books that we have published.
-
-=== _NNG Reference Manual_ (First Edition, May 2018 and June 2018)
+(First Edition, May 2018 and June 2018)
 
 Only issues found with the *books* are reported here. 
 The NNG manual pages located on the NNG are tracked and updated
 using the https://github.com/nanomsg/nng/issues[NNG GitHub Issues]
 page.
+
+We went to press with this edition before 1.0.0 was officially released,
+and some last minute changes and discoveries were made.
 
 ****
 There are two versions of the first edition.  The May 2018 printed
@@ -62,3 +63,9 @@ versions.  Consequently, the ISBNs were not changed.
    symbols using the prefix `nni_` such as `nni_tls_config`.  These
    names are internal, and should have been documented with `nng_` prefixes.
    In your own code, replace any occurrence of `nni_` with `nng_`.
+
+6. The ZeroTier transport does not require a development branch
+   of the ZeroTierOne tree.  See the file BUILD_ZEROTIER.adoc in the
+   doc subdirectory of the NNG distribution for more current information.
+
+7. The IPC transport *does* accept relative URLs.
