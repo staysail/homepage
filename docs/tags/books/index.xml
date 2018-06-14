@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Books on Staysail Systems</title>
-    <link>http://staysail.tech/tags/books/</link>
+    <link>https://staysail.tech/tags/books/</link>
     <description>Recent content in Books on Staysail Systems</description>
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>info@staysail.tech (Staysail Systems, Inc.)</managingEditor>
     <webMaster>info@staysail.tech (Staysail Systems, Inc.)</webMaster>
     
-	<atom:link href="http://staysail.tech/tags/books/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://staysail.tech/tags/books/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Books</title>
-      <link>http://staysail.tech/books/</link>
+      <link>https://staysail.tech/books/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>info@staysail.tech (Staysail Systems, Inc.)</author>
-      <guid>http://staysail.tech/books/</guid>
+      <guid>https://staysail.tech/books/</guid>
       <description>Books We Have Published In addition to offering custom development and consulting services, we at Staysail Systems have authored the following books, helping us to share our expertise with you.
        NNG Reference Manual
 Written by Garrett D&amp;#8217;Amore This manual is the authoritative and official reference for the NNG project, encompassing the entire set of manual pages produced for the project. For more information, including purchasing and availability, please see the homepage for the book.</description>
@@ -24,10 +24,10 @@ Written by Garrett D&amp;#8217;Amore This manual is the authoritative and offici
     
     <item>
       <title>NNG Reference Manual</title>
-      <link>http://staysail.tech/books/nng_reference/</link>
+      <link>https://staysail.tech/books/nng_reference/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>info@staysail.tech (Staysail Systems, Inc.)</author>
-      <guid>http://staysail.tech/books/nng_reference/</guid>
+      <guid>https://staysail.tech/books/nng_reference/</guid>
       <description>Written by Garrett D&amp;#8217;Amore This manual is the authoritative and official reference for the NNG project, encompassing the entire set of manual pages produced for the project.
    Availability While the content is available as part of the NNG project, you can also purchase a paperback desk edition, or electronic book formats compatible with all popular e-readers.
  Purchases of this book help defray the costs incurred in producing it and keeping it updated, and also help fund further development of NNG itself.</description>
@@ -35,10 +35,10 @@ Written by Garrett D&amp;#8217;Amore This manual is the authoritative and offici
     
     <item>
       <title>NNG Reference Manual (Errata)</title>
-      <link>http://staysail.tech/books/nng_reference/errata/</link>
+      <link>https://staysail.tech/books/nng_reference/errata/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>info@staysail.tech (Staysail Systems, Inc.)</author>
-      <guid>http://staysail.tech/books/nng_reference/errata/</guid>
+      <guid>https://staysail.tech/books/nng_reference/errata/</guid>
       <description>NNG Reference Manual (First Edition, May 2018 and June 2018)
  Only issues found with the books are reported here. The NNG manual pages located on the NNG are tracked and updated using the NNG GitHub Issues page.
  We went to press with this edition before 1.0.0 was officially released, and some last minute changes and discoveries were made.

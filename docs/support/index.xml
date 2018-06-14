@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Supports on Staysail Systems</title>
-    <link>http://staysail.tech/support/</link>
+    <link>https://staysail.tech/support/</link>
     <description>Recent content in Supports on Staysail Systems</description>
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>info@staysail.tech (Staysail Systems, Inc.)</managingEditor>
     <webMaster>info@staysail.tech (Staysail Systems, Inc.)</webMaster>
     
-	<atom:link href="http://staysail.tech/support/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://staysail.tech/support/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

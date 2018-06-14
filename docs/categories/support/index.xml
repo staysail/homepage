@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Support on Staysail Systems</title>
-    <link>http://staysail.tech/categories/support/</link>
+    <link>https://staysail.tech/categories/support/</link>
     <description>Recent content in Support on Staysail Systems</description>
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>info@staysail.tech (Staysail Systems, Inc.)</managingEditor>
     <webMaster>info@staysail.tech (Staysail Systems, Inc.)</webMaster>
     <lastBuildDate>Mon, 20 Nov 2017 16:59:48 -0800</lastBuildDate>
     
-	<atom:link href="http://staysail.tech/categories/support/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://staysail.tech/categories/support/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Mangos</title>
-      <link>http://staysail.tech/support/mangos/</link>
+      <link>https://staysail.tech/support/mangos/</link>
       <pubDate>Mon, 20 Nov 2017 16:59:48 -0800</pubDate>
       <author>info@staysail.tech (Staysail Systems, Inc.)</author>
-      <guid>http://staysail.tech/support/mangos/</guid>
+      <guid>https://staysail.tech/support/mangos/</guid>
       <description>Mangos Commercial Support   Garrett D&amp;#8217;Amore is the principal author and maintainer of mangos. While mangos itself is free, Staysail Systems offers commercial support and custom development around mangos and related software.
  We have experience engineering complete cloud orchestration solutions using mangos as the primary transport fabric, including service discovery, RPCs, and microservices; we can do the same for you.
  Options for both hourly and project-bid support are available.</description>

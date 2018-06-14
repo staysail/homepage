@@ -2,116 +2,116 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://staysail.tech/about/</loc>
+    <loc>https://staysail.tech/about/</loc>
     <lastmod>2017-11-20T16:59:48-08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://staysail.tech/support/mangos/</loc>
+    <loc>https://staysail.tech/support/mangos/</loc>
     <lastmod>2017-11-20T16:59:48-08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://staysail.tech/team/</loc>
+    <loc>https://staysail.tech/team/</loc>
     <lastmod>2017-11-20T16:59:48-08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://staysail.tech/</loc>
+    <loc>https://staysail.tech/</loc>
   </url>
   
   <url>
-    <loc>http://staysail.tech/tags/about/</loc>
-    <lastmod>2017-11-20T16:59:48-08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://staysail.tech/categories/about/</loc>
+    <loc>https://staysail.tech/tags/about/</loc>
     <lastmod>2017-11-20T16:59:48-08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://staysail.tech/tags/books/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://staysail.tech/categories/books/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://staysail.tech/books/</loc>
-  </url>
-  
-  <url>
-    <loc>http://staysail.tech/categories/</loc>
+    <loc>https://staysail.tech/categories/about/</loc>
     <lastmod>2017-11-20T16:59:48-08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://staysail.tech/tags/errata/</loc>
+    <loc>https://staysail.tech/tags/books/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://staysail.tech/tags/mangos/</loc>
+    <loc>https://staysail.tech/categories/books/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://staysail.tech/books/</loc>
+  </url>
+  
+  <url>
+    <loc>https://staysail.tech/categories/</loc>
     <lastmod>2017-11-20T16:59:48-08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://staysail.tech/books/nng_reference/</loc>
-  </url>
-  
-  <url>
-    <loc>http://staysail.tech/books/nng_reference/errata/</loc>
-  </url>
-  
-  <url>
-    <loc>http://staysail.tech/tags/nng/</loc>
+    <loc>https://staysail.tech/tags/errata/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://staysail.tech/tags/nng-reference-manual/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://staysail.tech/tags/support/</loc>
+    <loc>https://staysail.tech/tags/mangos/</loc>
     <lastmod>2017-11-20T16:59:48-08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://staysail.tech/categories/support/</loc>
+    <loc>https://staysail.tech/books/nng_reference/</loc>
+  </url>
+  
+  <url>
+    <loc>https://staysail.tech/books/nng_reference/errata/</loc>
+  </url>
+  
+  <url>
+    <loc>https://staysail.tech/tags/nng/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://staysail.tech/tags/nng-reference-manual/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://staysail.tech/tags/support/</loc>
     <lastmod>2017-11-20T16:59:48-08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://staysail.tech/support/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://staysail.tech/tags/</loc>
+    <loc>https://staysail.tech/categories/support/</loc>
     <lastmod>2017-11-20T16:59:48-08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://staysail.tech/tags/team/</loc>
+    <loc>https://staysail.tech/support/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://staysail.tech/tags/</loc>
     <lastmod>2017-11-20T16:59:48-08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://staysail.tech/categories/team/</loc>
+    <loc>https://staysail.tech/tags/team/</loc>
+    <lastmod>2017-11-20T16:59:48-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://staysail.tech/categories/team/</loc>
     <lastmod>2017-11-20T16:59:48-08:00</lastmod>
     <priority>0</priority>
   </url>

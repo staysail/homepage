@@ -2,85 +2,85 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Staysail Systems</title>
-    <link>http://staysail.tech/tags/</link>
+    <link>https://staysail.tech/tags/</link>
     <description>Recent content in Tags on Staysail Systems</description>
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>info@staysail.tech (Staysail Systems, Inc.)</managingEditor>
     <webMaster>info@staysail.tech (Staysail Systems, Inc.)</webMaster>
     <lastBuildDate>Mon, 20 Nov 2017 16:59:48 -0800</lastBuildDate>
     
-	<atom:link href="http://staysail.tech/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://staysail.tech/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>http://staysail.tech/tags/about/</link>
+      <link>https://staysail.tech/tags/about/</link>
       <pubDate>Mon, 20 Nov 2017 16:59:48 -0800</pubDate>
       <author>info@staysail.tech (Staysail Systems, Inc.)</author>
-      <guid>http://staysail.tech/tags/about/</guid>
+      <guid>https://staysail.tech/tags/about/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Books</title>
-      <link>http://staysail.tech/tags/books/</link>
+      <link>https://staysail.tech/tags/books/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>info@staysail.tech (Staysail Systems, Inc.)</author>
-      <guid>http://staysail.tech/tags/books/</guid>
+      <guid>https://staysail.tech/tags/books/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Errata</title>
-      <link>http://staysail.tech/tags/errata/</link>
+      <link>https://staysail.tech/tags/errata/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>info@staysail.tech (Staysail Systems, Inc.)</author>
-      <guid>http://staysail.tech/tags/errata/</guid>
+      <guid>https://staysail.tech/tags/errata/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mangos</title>
-      <link>http://staysail.tech/tags/mangos/</link>
+      <link>https://staysail.tech/tags/mangos/</link>
       <pubDate>Mon, 20 Nov 2017 16:59:48 -0800</pubDate>
       <author>info@staysail.tech (Staysail Systems, Inc.)</author>
-      <guid>http://staysail.tech/tags/mangos/</guid>
+      <guid>https://staysail.tech/tags/mangos/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Nng</title>
-      <link>http://staysail.tech/tags/nng/</link>
+      <link>https://staysail.tech/tags/nng/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>info@staysail.tech (Staysail Systems, Inc.)</author>
-      <guid>http://staysail.tech/tags/nng/</guid>
+      <guid>https://staysail.tech/tags/nng/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Nng Reference Manual</title>
-      <link>http://staysail.tech/tags/nng-reference-manual/</link>
+      <link>https://staysail.tech/tags/nng-reference-manual/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>info@staysail.tech (Staysail Systems, Inc.)</author>
-      <guid>http://staysail.tech/tags/nng-reference-manual/</guid>
+      <guid>https://staysail.tech/tags/nng-reference-manual/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Support</title>
-      <link>http://staysail.tech/tags/support/</link>
+      <link>https://staysail.tech/tags/support/</link>
       <pubDate>Mon, 20 Nov 2017 16:59:48 -0800</pubDate>
       <author>info@staysail.tech (Staysail Systems, Inc.)</author>
-      <guid>http://staysail.tech/tags/support/</guid>
+      <guid>https://staysail.tech/tags/support/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Team</title>
-      <link>http://staysail.tech/tags/team/</link>
+      <link>https://staysail.tech/tags/team/</link>
       <pubDate>Mon, 20 Nov 2017 16:59:48 -0800</pubDate>
       <author>info@staysail.tech (Staysail Systems, Inc.)</author>
-      <guid>http://staysail.tech/tags/team/</guid>
+      <guid>https://staysail.tech/tags/team/</guid>
       <description></description>
     </item>
     
