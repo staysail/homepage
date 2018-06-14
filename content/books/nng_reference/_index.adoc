@@ -34,7 +34,7 @@ further development of NNG itself.
 | Paperback
 .^a| image:../../img/amazon.png[Amazon,198,73,float="left",link="https://www.amzn.com/1732423407"]
 
-.5+| eBook
+.6+| eBook
 
 a|image:../../img/staysail.png[Staysail,50,50,link="https://garrettdamore.selz.com/item/nng-reference-manual"]
 
@@ -46,19 +46,10 @@ a|image:../../img/smashwords.png[Smashwords,97,73,link="https://www.smashwords.c
 
 a|image:../../img/leanpub.png[Leanpub,144,73,link="http://leanpub.com/nngmanual"]
 
-//image:../../img/staysail.png[Staysail,50,50,float="left",vertical-align="middle", align="center",link="https://garrettdamore.selz.com/item/nng-reference-manual"]
-//image:../../img/staysail.png[Staysail,60,60,float="left",align="center",link="https://garrettdamore.selz.com/item/nng-reference-manual"]
-//image:../../img/kindle.png[Kindle,198,73,float="left",align="center",link="https://amzn.com/B07DK5JGNP"]
-//image:../../img/kindle.png[Kindle,140,,float="left",align="center",link="https://amzn.com/B07DK5JGNP"]
-//image:../../img/nook.png[Nook,131,73,float="left",align="center",link="https://www.barnesandnoble.com/w/nng-reference-manual-garrett-damore/1128855897?ean=2940162021575"]
-//image:../../img/smashwords.png[Smashwords,97,73,float="left",link="https://www.smashwords.com/books/view/838810"]
-//image:../../img/leanpub.png[Leanpub,144,73,float="left",link="http://leanpub.com/nngmanual"]
+a|image:../../img/kobo.png[Kobo,131,73,link="https://www.kobo.com/ebook/nng-reference-manual-1"]
 
 |===
 
-// | PDF a| image:../../img/staysail.png[Staysail,60,60,float="left",align="center",link="http://https://garrettdamore.selz.com/item/nng-reference-manual"] image:../../img/leanpub.png[Leanpub,144,73,float="left",link="http://leanpub.com/nngmanual"]
-// | EPUB a| image:../../img/staysail.png[Staysail,60,60,float="left",align="center",link=http://https://garrettdamore.selz.com/item/nng-reference-manual] image:../../img/leanpub.png[Leanpub,144,73,float="left",link="http://leanpub.com/nngmanual"]
-// | Kindle a| image:../../img/kindle.png[Kindle,198,73,float="left",align="center",link="https://amzn.com/B07DK5JGNP"]
 
 == Errata
 

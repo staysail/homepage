@@ -15,7 +15,7 @@ theme = "staysail"
 #  Pick any three."
 #  Bespoke systems software, engineered with craftsmanship."
     logo = "img/staysail.png"
-    #favicon = "XXX.ico"
+    favicon = "favicon.ico"
     dateFormat    = "January 2, 2006"
     comments = false
     rss = false
@@ -37,5 +37,12 @@ theme = "staysail"
 [[menu.main]]
   name = "Team"
   identifier = "team"
-  weight = 2
+  weight = 3
   url = "/team/"
+
+[[menu.main]]
+  name = "Books"
+  identifier = "books"
+  weight = 2
+  url = "/books/"
+
