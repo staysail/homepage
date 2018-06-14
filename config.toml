@@ -1,4 +1,4 @@
-baseurl = "http://staysail.tech/"
+baseurl = "https://staysail.tech/"
 DefaultContentLanguage = "en"
 metaDataFormat = "yaml"
 pygmentsUseClasses = true
