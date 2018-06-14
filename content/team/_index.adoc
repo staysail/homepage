@@ -20,7 +20,7 @@ http://www.nanomsg.org[nanomsg], but has developed software used in
 http://www.freebsd.org[FreeBSD], http://www.netbsd.org[NetBSD],
 http://www.oracle.com/solaris[Solaris], http://www.openzfs.org[ZFS] and others.
 
-He was also well known for his work at Sun on the PSARC committee,
+He was also known for his work at Sun on the PSARC committee,
 which was responsible for the technical direction of Solaris.
 
 Garrett led technical teams at companies like AMD, Qualcomm,
@@ -40,13 +40,13 @@ Garrett currently lives in North San Diego county.
 
 image::/img/evgeniia.jpeg[,133,float="right"]
 
-Evgeniia (Jeny) hails from Russia, where she worked in the banking industry as
-a senior
-bank accountant in Chelyabinsk, Russia. A Snezhinsky Bank, she was responsible
-for handling accounts in Snezhinsky's consumer mortage department.
+Evgeniia ("`Jeny`") hails from Russia, where she worked in the banking
+industry as a senior bank accountant in Chelyabinsk.
+At Snezhinsky Bank, she was responsible
+for handling accounts in the consumer mortage department.
 
 Evgeniia's education includes a Master's in Finance and Economics from
-the Russian Institute of Economics, Chelyabinsk.
+the Russian Institute of Economics.
 
 At Staysail, Jeny handles all of our daily accounting, including customer
 billing, payroll, and financial reporting.
