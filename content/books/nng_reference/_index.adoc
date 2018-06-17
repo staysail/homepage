@@ -34,7 +34,7 @@ further development of NNG itself.
 | Paperback
 .^a| image:../../img/amazon.png[Amazon,198,73,float="left",link="https://www.amzn.com/1732423407"]
 
-.7+| eBook
+.8+| eBook
 
 a|image:../../img/staysail.png[Staysail,50,50,link="https://garrettdamore.selz.com/item/nng-reference-manual"]
 
@@ -49,6 +49,8 @@ a|image:../../img/leanpub.png[Leanpub,144,73,link="http://leanpub.com/nngmanual"
 a|image:../../img/kobo.png[Kobo,131,73,link="https://www.kobo.com/ebook/nng-reference-manual-1"]
 
 a|image:../../img/ibooks.png[iBooks,162,73,link="https://geo.itunes.apple.com/us/book/nng-reference-manual/id1398689091?mt=11"]
+
+a|image:../../img/scribd.png[iBooks,200,60,link="https://www.scribd.com/book/381758165/NNG-Reference-Manual"]
 
 |===
 
