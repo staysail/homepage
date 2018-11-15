@@ -21,24 +21,24 @@
   </url>
   
   <url>
-    <loc>https://staysail.tech/categories/about/</loc>
-    <lastmod>2017-11-20T16:59:48-08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://staysail.tech/tags/about/</loc>
     <lastmod>2017-11-20T16:59:48-08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://staysail.tech/categories/books/</loc>
+    <loc>https://staysail.tech/categories/about/</loc>
+    <lastmod>2017-11-20T16:59:48-08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://staysail.tech/tags/books/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://staysail.tech/categories/books/</loc>
     <priority>0</priority>
   </url>
   
@@ -82,13 +82,13 @@
   </url>
   
   <url>
-    <loc>https://staysail.tech/categories/support/</loc>
+    <loc>https://staysail.tech/tags/support/</loc>
     <lastmod>2017-11-20T16:59:48-08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://staysail.tech/tags/support/</loc>
+    <loc>https://staysail.tech/categories/support/</loc>
     <lastmod>2017-11-20T16:59:48-08:00</lastmod>
     <priority>0</priority>
   </url>
@@ -105,13 +105,13 @@
   </url>
   
   <url>
-    <loc>https://staysail.tech/categories/team/</loc>
+    <loc>https://staysail.tech/tags/team/</loc>
     <lastmod>2017-11-20T16:59:48-08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://staysail.tech/tags/team/</loc>
+    <loc>https://staysail.tech/categories/team/</loc>
     <lastmod>2017-11-20T16:59:48-08:00</lastmod>
     <priority>0</priority>
   </url>
