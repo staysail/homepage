@@ -42,7 +42,7 @@ https://leanpub.com/nngref2e[Leanpub] page to obtain updates for free.
 | Format | Availability
 
 | Paperback
-.^a| image:../../img/amazon.png[Amazon,198,73,float="left",link="https://www.amzn.com/1732423407"]
+.^a| image:../../img/amazon.png[Amazon,198,73,float="left",link="https://www.amzn.com/173242344X"]
 
 .7+| eBook
 a|image:../../img/leanpub.png[Leanpub,144,73,link="https://leanpub.com/nngref2e"]
