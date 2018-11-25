@@ -8,16 +8,14 @@
   <title>NNG Reference Manual (Errata)</title>
   <meta property="og:title" content="NNG Reference Manual (Errata)" />
   <meta name="twitter:title" content="NNG Reference Manual (Errata)" />
-  <meta name="description" content="NNG Reference Manual (First Edition, May 2018 and June 2018)
- Only issues found with the books are reported here. The NNG manual pages located on the NNG are tracked and updated using the NNG GitHub Issues page.
- We went to press with this edition before 1.0.0 was officially released, and some last minute changes and discoveries were made.
- There are two versions of the first edition. The May 2018 printed edition is printed by Ingram Spark on cream paper, and uses full justification throughout.">
-  <meta property="og:description" content="NNG Reference Manual (First Edition, May 2018 and June 2018)
- Only issues found with the books are reported here. The NNG manual pages located on the NNG are tracked and updated using the NNG GitHub Issues page.
- We went to press with this edition before 1.0.0 was officially released, and some last minute changes and discoveries were made.
- There are two versions of the first edition. The May 2018 printed edition is printed by Ingram Spark on cream paper, and uses full justification throughout.">
-  <meta name="twitter:description" content="NNG Reference Manual (First Edition, May 2018 and June 2018)
- Only issues found with the books are reported here. The NNG manual pages located on the NNG are tracked and updated using the NNG GitHub …">
+  <meta name="description" content="NNG Reference Manual Only issues found with the books are reported here. The NNG manual pages located on the NNG are tracked and updated using the NNG GitHub Issues page.
+ (Second Edition, November 2018)  Running titles on the print edition wind up extending into the separator pages for sections. This is a formatting bug and has no consequence on the actual content.
+    (First Edition, May 2018 and June 2018) We went to press with this edition before 1.">
+  <meta property="og:description" content="NNG Reference Manual Only issues found with the books are reported here. The NNG manual pages located on the NNG are tracked and updated using the NNG GitHub Issues page.
+ (Second Edition, November 2018)  Running titles on the print edition wind up extending into the separator pages for sections. This is a formatting bug and has no consequence on the actual content.
+    (First Edition, May 2018 and June 2018) We went to press with this edition before 1.">
+  <meta name="twitter:description" content="NNG Reference Manual Only issues found with the books are reported here. The NNG manual pages located on the NNG are tracked and updated using the NNG GitHub Issues page.
+ (Second Edition, November …">
   <meta name="author" content="Staysail Systems, Inc."/>
   <link href='https://staysail.tech/favicon.ico' rel='icon' type='image/x-icon'/>
   <meta property="og:image" content="https://staysail.tech/img/staysail.png" />
@@ -177,14 +175,25 @@
             <div class="sect2">
 <h3 id="_nng_reference_manual"><em>NNG Reference Manual</em></h3>
 <div class="paragraph">
-<p>(First Edition, May 2018 and June 2018)</p>
-</div>
-<div class="paragraph">
 <p>Only issues found with the <strong>books</strong> are reported here.
 The NNG manual pages located on the NNG are tracked and updated
 using the <a href="https://github.com/nanomsg/nng/issues">NNG GitHub Issues</a>
 page.</p>
 </div>
+<div class="sect3">
+<h4 id="_second_edition_november_2018">(Second Edition, November 2018)</h4>
+<div class="olist arabic">
+<ol class="arabic">
+<li>
+<p>Running titles on the print edition wind up extending into
+the separator pages for sections.  This is a formatting bug and has
+no consequence on the actual content.</p>
+</li>
+</ol>
+</div>
+</div>
+<div class="sect3">
+<h4 id="_first_edition_may_2018_and_june_2018">(First Edition, May 2018 and June 2018)</h4>
 <div class="paragraph">
 <p>We went to press with this edition before 1.0.0 was officially released,
 and some last minute changes and discoveries were made.</p>
@@ -228,8 +237,7 @@ that if you buy the book somewhere <strong>other</strong> than United States, th
 book will have been printed somewhere closer to you.  This is both
 more economical, and more environnmentally friendly, as we don&#8217;t need to
 ship dead trees around the world.  (For instance
-at this time, most copies sold in Europe are actually printed in the
-UK.)</p>
+at this time, most copies sold in Europe are actually printed in the UK.)</p>
 </li>
 <li>
 <p>If you got the May 2018 Kindle download from Amazon, there are numerous
@@ -256,7 +264,52 @@ doc subdirectory of the NNG distribution for more current information.</p>
 <li>
 <p>The IPC transport <strong>does</strong> accept relative URLs.</p>
 </li>
+<li>
+<p>The <code>nng_dial()</code> and <code>nng_listen()</code> functions also return 1NNG_EINVAL`
+if an invalid URL is supplied.</p>
+</li>
+<li>
+<p>The <code>nng_req_open()</code> function creates a REQ socket, not a REP one.</p>
+</li>
+<li>
+<p>The <code>nng_device()</code> synopsis should read &#8220;message forwarding device&#8221;
+instead of &#8220;send message&#8221;.</p>
+</li>
+<li>
+<p>The use of <code>nng_dialer()</code> in the description of <code>nng_dial()</code> should refer
+to <code>nng_dial()</code>; there is no function called <code>nng_dialer()</code>.</p>
+</li>
+<li>
+<p>There are various minor punctuation errors, such as using "its" instead
+of "it`s".</p>
+</li>
+<li>
+<p>The synopsis of <code>nng_aio_result()</code> should refer to that function instead
+of <code>nng_aio_wait()</code>.</p>
+</li>
+<li>
+<p>The table of functions for HTTP incorrectly named functions
+<code>nng_http_conn_write()</code>, which should have been listed as
+<code>nng_http_conn_write_req()</code> and <code>nng_http_conn_write_res()</code>.</p>
+</li>
+<li>
+<p>The table of functions listed <code>nng_cv_wake()</code> where <code>nng_cv_wake1()</code>
+should have been named (for waking one waiter).</p>
+</li>
+<li>
+<p>The table of functions listed <code>nng_http_server_get_tls()</code> where it should
+have listed <code>nng_http_server_hold()</code> and <code>nng_http_server_release()</code>.</p>
+</li>
+<li>
+<p>The <code>nng_close()</code> function should have listed a warning about closing
+a socket before transmission is complete.</p>
+</li>
+<li>
+<p>The <code>nng_recv()</code> function can also result in an <code>NNG_ETIMEDOUT</code> error,
+and needs to include documentation of the flag <code>NNG_FLAG_NONBLOCK</code>.</p>
+</li>
 </ol>
+</div>
 </div>
 </div>
 

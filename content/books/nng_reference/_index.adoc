@@ -24,14 +24,19 @@ Purchases of this book help defray the costs
 incurred in producing it and keeping it updated, and also help fund
 further development of NNG itself.
 
-== New Edition
+== Second Edition
 
 As of November 10, 2018, the Second Edition, covering NNG version 1.1, is out.
 It may take some time for all outlets to receive the updated edition.
 
+TIP: Generally, https://leanpub.com/nngref2e[Leanpub],
+     https://www.smashwords.com/books/view/906992[Smashwords], and
+     https://amzn.com/B07KDW9VPS[Amazon] have the latest editions,
+     and get updates sooner than others.
+
 NOTE: We have closed the Staysail store (formerly hosted by Selz.)
-Customers who obtained the first edition from that store may use the
-https://leanpub.com/nngref2e[Leanpub] page to obtain updates for free.
+      Customers who obtained the first edition from that store may use the
+      https://leanpub.com/nngref2e[Leanpub] page to obtain updates for free.
 
 [.center]
 // [%autowidth.spread,cols="^.^,^.^"

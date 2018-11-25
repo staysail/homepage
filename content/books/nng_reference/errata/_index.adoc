@@ -7,12 +7,18 @@ tags: [ "errata", "books", "NNG" ]
 
 === _NNG Reference Manual_
 
-(First Edition, May 2018 and June 2018)
-
 Only issues found with the *books* are reported here. 
 The NNG manual pages located on the NNG are tracked and updated
 using the https://github.com/nanomsg/nng/issues[NNG GitHub Issues]
 page.
+
+==== (Second Edition, November 2018)
+
+. Running titles on the print edition wind up extending into
+  the separator pages for sections.  This is a formatting bug and has
+  no consequence on the actual content.
+
+==== (First Edition, May 2018 and June 2018)
 
 We went to press with this edition before 1.0.0 was officially released,
 and some last minute changes and discoveries were made.
@@ -34,38 +40,70 @@ No interior content (wording) was changed between the May and June 2018
 versions.  Consequently, the ISBNs were not changed.
 ****
 
-1. The description for `nng_recv()` fails to mention that
-   `NNG_FLAG_NONBLOCK` may be used for non-blocking operation.
-   The description  of `nng_recvmsg()` does describe this flag, and
-   the description located there can be used in the meantime.
-   (https://github.com/nanomsg/nng/issues/503[NNG GitHub Issue])
+. The description for `nng_recv()` fails to mention that
+  `NNG_FLAG_NONBLOCK` may be used for non-blocking operation.
+  The description  of `nng_recvmsg()` does describe this flag, and
+  the description located there can be used in the meantime.
+  (https://github.com/nanomsg/nng/issues/503[NNG GitHub Issue])
 
-2. (Only in the May 2018 paperback printed edition.)  The frontmatter indicates
-   that the book is printed in the United States.  We have changed the
-   distribution network we use to gain global reach, and it's likely
-   that if you buy the book somewhere *other* than United States, that
-   book will have been printed somewhere closer to you.  This is both
-   more economical, and more environnmentally friendly, as we don't need to
-   ship dead trees around the world.  (For instance
-   at this time, most copies sold in Europe are actually printed in the
-   UK.)
+. (Only in the May 2018 paperback printed edition.)  The frontmatter indicates
+  that the book is printed in the United States.  We have changed the
+  distribution network we use to gain global reach, and it's likely
+  that if you buy the book somewhere *other* than United States, that
+  book will have been printed somewhere closer to you.  This is both
+  more economical, and more environnmentally friendly, as we don't need to
+  ship dead trees around the world.  (For instance
+  at this time, most copies sold in Europe are actually printed in the UK.)
 
-3. If you got the May 2018 Kindle download from Amazon, there are numerous
-   formatting errors caused by Ingram's poor conversion of ePub to MOBI.
-   The June 2018 version corrects those errors.  It also has a lower list
-   price of $9.99.
+. If you got the May 2018 Kindle download from Amazon, there are numerous
+  formatting errors caused by Ingram's poor conversion of ePub to MOBI.
+  The June 2018 version corrects those errors.  It also has a lower list
+  price of $9.99.
 
-4. The Kindle editions from Amazon seem to have lost the visual icons
-   for "TIP", "NOTE", and "IMPORTANT" indicators.  This is a limitation on
-   some Kindle readers.  We will use images instead for the next edition.
+. The Kindle editions from Amazon seem to have lost the visual icons
+  for "TIP", "NOTE", and "IMPORTANT" indicators.  This is a limitation on
+  some Kindle readers.  We will use images instead for the next edition.
 
-5. Various man pages for supplement HTTP and TLS functions refer to
-   symbols using the prefix `nni_` such as `nni_tls_config`.  These
-   names are internal, and should have been documented with `nng_` prefixes.
-   In your own code, replace any occurrence of `nni_` with `nng_`.
+. Various man pages for supplement HTTP and TLS functions refer to
+  symbols using the prefix `nni_` such as `nni_tls_config`.  These
+  names are internal, and should have been documented with `nng_` prefixes.
+  In your own code, replace any occurrence of `nni_` with `nng_`.
 
-6. The ZeroTier transport does not require a development branch
-   of the ZeroTierOne tree.  See the file BUILD_ZEROTIER.adoc in the
-   doc subdirectory of the NNG distribution for more current information.
+. The ZeroTier transport does not require a development branch
+  of the ZeroTierOne tree.  See the file BUILD_ZEROTIER.adoc in the
+  doc subdirectory of the NNG distribution for more current information.
 
-7. The IPC transport *does* accept relative URLs.
+. The IPC transport *does* accept relative URLs.
+
+. The `nng_dial()` and `nng_listen()` functions also return 1NNG_EINVAL`
+  if an invalid URL is supplied.
+
+. The `nng_req_open()` function creates a REQ socket, not a REP one.
+
+. The `nng_device()` synopsis should read "`message forwarding device`"
+  instead of "`send message`".
+
+. The use of `nng_dialer()` in the description of `nng_dial()` should refer
+  to `nng_dial()`; there is no function called `nng_dialer()`.
+
+. There are various minor punctuation errors, such as using "its" instead
+  of "it`s".
+
+. The synopsis of `nng_aio_result()` should refer to that function instead
+  of `nng_aio_wait()`.
+
+. The table of functions for HTTP incorrectly named functions
+  `nng_http_conn_write()`, which should have been listed as
+  `nng_http_conn_write_req()` and `nng_http_conn_write_res()`.
+
+. The table of functions listed `nng_cv_wake()` where `nng_cv_wake1()`
+  should have been named (for waking one waiter).
+
+. The table of functions listed `nng_http_server_get_tls()` where it should
+  have listed `nng_http_server_hold()` and `nng_http_server_release()`.
+
+. The `nng_close()` function should have listed a warning about closing
+  a socket before transmission is complete.
+
+. The `nng_recv()` function can also result in an `NNG_ETIMEDOUT` error,
+  and needs to include documentation of the flag `NNG_FLAG_NONBLOCK`.
