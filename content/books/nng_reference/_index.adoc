@@ -60,7 +60,7 @@ a|image:../../img/smashwords.png[Smashwords,97,73,link="https://www.smashwords.c
 
 a|image:../../img/kobo.png[Kobo,131,73,link="https://www.kobo.com/us/en/ebook/nng-reference-manual-second-edition"]
 
-a|image:../../img/ibooks.png[iBooks,162,73,link="https://geo.itunes.apple.com/us/book/nng-reference-manual/id1398689091?mt=11"]
+a|image:../../img/ibooks.png[iBooks,162,73,link="https://geo.itunes.apple.com/book/nng-reference-manual-second-edition/id1444661955?mt=11"]
 
 a|image:../../img/scribd.png[Scribd,200,60,link="https://www.scribd.com/book/394234464/NNG-Reference-Manual-Second-Edition"]
 
