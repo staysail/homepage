@@ -41,7 +41,7 @@ Written by Garrett D&amp;#8217;Amore This manual is the authoritative and offici
       <guid>https://staysail.tech/books/nng_reference/errata/</guid>
       <description>NNG Reference Manual Only issues found with the books are reported here. The NNG manual pages located on the NNG are tracked and updated using the NNG GitHub Issues page.
  (Second Edition, November 2018)  Running titles on the print edition wind up extending into the separator pages for sections. This is a formatting bug and has no consequence on the actual content.
-    (First Edition, May 2018 and June 2018) We went to press with this edition before 1.</description>
+  The nng_http_client_connect() description of the NNG_EADDRINVAL refers to a problem on the server, when it should have said client.</description>
     </item>
     
   </channel>
