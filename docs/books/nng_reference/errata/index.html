@@ -193,6 +193,11 @@ no consequence on the actual content.</p>
 <p>The <code>nng_http_client_connect()</code> description of the <code>NNG_EADDRINVAL</code>
 refers to a problem on the server, when it should have said client.</p>
 </li>
+<li>
+<p>The <code>nng_listen()</code> and <code>nng_listener_start()</code> functions do not support
+the <code>NNG_FLAG_NONBLOCK</code> flag at this time.  The <code>flags</code> argument to
+these functions is reserved for future use.</p>
+</li>
 </ol>
 </div>
 </div>
