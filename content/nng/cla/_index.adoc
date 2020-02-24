@@ -1,0 +1,26 @@
+
+== Staysail Systems, Inc. CLAs
+
+Thank you for your contribution!
+
+In order to contribute code to our repositories, we require contributes to sign
+a Contributor License Agreement.
+
+TIP: We require these CLAs to ensure that we can relicense your contributions in
+our commercial products, so that all users of this code base can benefit.
+
+There are two forms of this agreement, one for individual contributors, and one
+for corporate entities. There should be copies located in the repository you
+are contributing to.
+
+To submit this approval, please print, sign, and scan the agreement, then email
+it to info@staysail.tech.
+
+We will then counter-sign it and return it to you.
+
+TIP: The counter-signature is important, because the agreement is bi-lateral.
+We are promising to release your changes under the same open source license
+as the repository to which you are contributing.
+
+Once this is approved, we will note that in your Pull Request, or otherwise
+where appropriate.

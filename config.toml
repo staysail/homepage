@@ -46,3 +46,9 @@ theme = "staysail"
   weight = 2
   url = "/books/"
 
+[[menu.products]]
+  name = "Products"
+  identifier = "products"
+  weight = 2
+  url = "/products/"
+

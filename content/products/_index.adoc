@@ -1,0 +1,30 @@
+---
+categories: [ "products" ]
+title: "Products"
+draft: false
+tags: [ "products", "NNG" ]
+---
+
+
+== Products
+
+Staysail Systems, Inc. offers the following products:
+
+* wolfSSL plugin support for https://github.com/nanomsg/nng[NNG].
+
+  A free version is available on GitHub under GPLv3.0, but we also
+  provide a commercially licensed version.  This enables commercial
+  applications and FIPS 140-2 validated solutions, and TLS 1.3 to
+  be created with NNG.
+
+* matrixSSL plugin support for https://github.com/nanomsg/nng[NNG].
+
+  (Forthcoming.) This plugin will provide support for solutions
+  using matrix SSL with NNG.  As with the wolfSSL plugin, this should
+  enable the possiblity of creating FIPS 140-2 validated solutions.
+
+* Other TLS or SSL plugins for NNG.  Development of these is possible
+  as a work-for-hire.  Contact us to discuss details.
+
+Please contact us at info@staysail.tech so that we may discuss your
+needs and to obtain a quote.
