@@ -3,15 +3,15 @@
 
 Thank you for your contribution!
 
-In order to contribute code to our repositories, we require contributes to sign
-a Contributor License Agreement.
+In order to contribute code to our repositories, we require all contributors to sign
+a Contributor License Agreement (CLA).
 
 TIP: We require these CLAs to ensure that we can relicense your contributions in
 our commercial products, so that all users of this code base can benefit.
 
 There are two forms of this agreement, one for individual contributors, and one
-for corporate entities. There should be copies located in the repository you
-are contributing to.
+for corporate entities. There should be copies located in the repository to which you
+are contributing.
 
 To submit this approval, please print, sign, and scan the agreement, then email
 it to info@staysail.tech.
