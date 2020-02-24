@@ -37,13 +37,13 @@ theme = "staysail"
 [[menu.main]]
   name = "Team"
   identifier = "team"
-  weight = 3
+  weight = 4
   url = "/team/"
 
 [[menu.main]]
   name = "Books"
   identifier = "books"
-  weight = 2
+  weight = 3
   url = "/books/"
 
 [[menu.products]]
