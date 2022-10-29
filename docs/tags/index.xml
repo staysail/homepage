@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Staysail Systems</title>
@@ -7,13 +7,9 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>info@staysail.tech (Staysail Systems, Inc.)</managingEditor>
     <webMaster>info@staysail.tech (Staysail Systems, Inc.)</webMaster>
-    <lastBuildDate>Mon, 20 Nov 2017 16:59:48 -0800</lastBuildDate>
-    
-	<atom:link href="https://staysail.tech/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 20 Nov 2017 16:59:48 -0800</lastBuildDate><atom:link href="https://staysail.tech/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>About</title>
+      <title>about</title>
       <link>https://staysail.tech/tags/about/</link>
       <pubDate>Mon, 20 Nov 2017 16:59:48 -0800</pubDate>
       <author>info@staysail.tech (Staysail Systems, Inc.)</author>
@@ -22,25 +18,7 @@
     </item>
     
     <item>
-      <title>Books</title>
-      <link>https://staysail.tech/tags/books/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>info@staysail.tech (Staysail Systems, Inc.)</author>
-      <guid>https://staysail.tech/tags/books/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Errata</title>
-      <link>https://staysail.tech/tags/errata/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>info@staysail.tech (Staysail Systems, Inc.)</author>
-      <guid>https://staysail.tech/tags/errata/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mangos</title>
+      <title>mangos</title>
       <link>https://staysail.tech/tags/mangos/</link>
       <pubDate>Mon, 20 Nov 2017 16:59:48 -0800</pubDate>
       <author>info@staysail.tech (Staysail Systems, Inc.)</author>
@@ -49,34 +27,7 @@
     </item>
     
     <item>
-      <title>Nng</title>
-      <link>https://staysail.tech/tags/nng/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>info@staysail.tech (Staysail Systems, Inc.)</author>
-      <guid>https://staysail.tech/tags/nng/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Nng Reference Manual</title>
-      <link>https://staysail.tech/tags/nng-reference-manual/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>info@staysail.tech (Staysail Systems, Inc.)</author>
-      <guid>https://staysail.tech/tags/nng-reference-manual/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Products</title>
-      <link>https://staysail.tech/tags/products/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>info@staysail.tech (Staysail Systems, Inc.)</author>
-      <guid>https://staysail.tech/tags/products/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Support</title>
+      <title>support</title>
       <link>https://staysail.tech/tags/support/</link>
       <pubDate>Mon, 20 Nov 2017 16:59:48 -0800</pubDate>
       <author>info@staysail.tech (Staysail Systems, Inc.)</author>
@@ -85,11 +36,56 @@
     </item>
     
     <item>
-      <title>Team</title>
+      <title>team</title>
       <link>https://staysail.tech/tags/team/</link>
       <pubDate>Mon, 20 Nov 2017 16:59:48 -0800</pubDate>
       <author>info@staysail.tech (Staysail Systems, Inc.)</author>
       <guid>https://staysail.tech/tags/team/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>books</title>
+      <link>https://staysail.tech/tags/books/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>info@staysail.tech (Staysail Systems, Inc.)</author>
+      <guid>https://staysail.tech/tags/books/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>errata</title>
+      <link>https://staysail.tech/tags/errata/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>info@staysail.tech (Staysail Systems, Inc.)</author>
+      <guid>https://staysail.tech/tags/errata/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NNG</title>
+      <link>https://staysail.tech/tags/nng/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>info@staysail.tech (Staysail Systems, Inc.)</author>
+      <guid>https://staysail.tech/tags/nng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NNG Reference Manual</title>
+      <link>https://staysail.tech/tags/nng-reference-manual/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>info@staysail.tech (Staysail Systems, Inc.)</author>
+      <guid>https://staysail.tech/tags/nng-reference-manual/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>products</title>
+      <link>https://staysail.tech/tags/products/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>info@staysail.tech (Staysail Systems, Inc.)</author>
+      <guid>https://staysail.tech/tags/products/</guid>
       <description></description>
     </item>
     

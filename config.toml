@@ -10,6 +10,10 @@ publishdir = "docs"
 title = "Staysail Systems"
 theme = "staysail"
 
+[security]
+[security.exec]
+  allow=[ "^asciidoctor$"]
+
 [Params]
     subtitle = "Performant, scalable, maintainable systems software engineered with pride and craftsmanship."
 #  Pick any three."

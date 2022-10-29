@@ -1,16 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Nng on Staysail Systems</title>
+    <title>NNG on Staysail Systems</title>
     <link>https://staysail.tech/tags/nng/</link>
-    <description>Recent content in Nng on Staysail Systems</description>
+    <description>Recent content in NNG on Staysail Systems</description>
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>info@staysail.tech (Staysail Systems, Inc.)</managingEditor>
-    <webMaster>info@staysail.tech (Staysail Systems, Inc.)</webMaster>
-    
-	<atom:link href="https://staysail.tech/tags/nng/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <webMaster>info@staysail.tech (Staysail Systems, Inc.)</webMaster><atom:link href="https://staysail.tech/tags/nng/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Books</title>
       <link>https://staysail.tech/books/</link>
@@ -18,8 +14,7 @@
       <author>info@staysail.tech (Staysail Systems, Inc.)</author>
       <guid>https://staysail.tech/books/</guid>
       <description>Books We Have Published In addition to offering custom development and consulting services, we at Staysail Systems have authored the following books, helping us to share our expertise with you.
-       NNG Reference Manual
-Written by Garrett D&amp;#8217;Amore This manual is the authoritative and official reference for the NNG project, encompassing the entire set of manual pages produced for the project. For more information, including purchasing and availability, please see the homepage for the book.</description>
+NNG Reference Manual Written by Garrett D’Amore This manual is the authoritative and official reference for the NNG project, encompassing the entire set of manual pages produced for the project. For more information, including purchasing and availability, please see the homepage for the book.</description>
     </item>
     
     <item>
@@ -28,9 +23,9 @@ Written by Garrett D&amp;#8217;Amore This manual is the authoritative and offici
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>info@staysail.tech (Staysail Systems, Inc.)</author>
       <guid>https://staysail.tech/books/nng_reference/</guid>
-      <description>Written by Garrett D&amp;#8217;Amore This manual is the authoritative and official reference for the NNG project, encompassing the entire set of manual pages produced for the project.
-   Availability While the content is available as part of the NNG project, you can also purchase a paperback desk edition, or electronic book formats compatible with all popular e-readers.
- Purchases of this book help defray the costs incurred in producing it and keeping it updated, and also help fund further development of NNG itself.</description>
+      <description>Written by Garrett D’Amore This manual is the authoritative and official reference for the NNG project, encompassing the entire set of manual pages produced for the project.
+Availability While the content is available as part of the NNG project, you can also purchase a paperback desk edition, or electronic book formats compatible with all popular e-readers.
+Purchases of this book help defray the costs incurred in producing it and keeping it updated, and also help fund further development of NNG itself.</description>
     </item>
     
     <item>
@@ -40,8 +35,8 @@ Written by Garrett D&amp;#8217;Amore This manual is the authoritative and offici
       <author>info@staysail.tech (Staysail Systems, Inc.)</author>
       <guid>https://staysail.tech/books/nng_reference/errata/</guid>
       <description>NNG Reference Manual Only issues found with the books are reported here. The NNG manual pages located on the NNG are tracked and updated using the NNG GitHub Issues page.
- (Second Edition, November 2018)  Running titles on the print edition wind up extending into the separator pages for sections. This is a formatting bug and has no consequence on the actual content.
-  The nng_http_client_connect() description of the NNG_EADDRINVAL refers to a problem on the server, when it should have said client.</description>
+(Second Edition, November 2018) Running titles on the print edition wind up extending into the separator pages for sections. This is a formatting bug and has no consequence on the actual content.
+The nng_http_client_connect() description of the NNG_EADDRINVAL refers to a problem on the server, when it should have said client.</description>
     </item>
     
     <item>
@@ -51,10 +46,10 @@ Written by Garrett D&amp;#8217;Amore This manual is the authoritative and offici
       <author>info@staysail.tech (Staysail Systems, Inc.)</author>
       <guid>https://staysail.tech/products/</guid>
       <description>Products Staysail Systems, Inc. offers the following products:
-   wolfSSL plugin support for NNG.
+wolfSSL plugin support for NNG.
 A free version is available on GitHub under GPLv3.0, but we also provide a commercially licensed version. This enables commercial applications and FIPS 140-2 validated solutions, and TLS 1.3 to be created with NNG.
-   matrixSSL plugin support for NNG.
-(Forthcoming.) This plugin will provide support for solutions using matrix SSL with NNG.</description>
+matrixSSL plugin support for NNG.
+(Forthcoming.) This plugin will provide support for solutions using matrix SSL with NNG. As with the wolfSSL plugin, this should enable the possiblity of creating FIPS 140-2 validated solutions.</description>
     </item>
     
   </channel>

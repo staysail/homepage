@@ -1,16 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Products on Staysail Systems</title>
+    <title>products on Staysail Systems</title>
     <link>https://staysail.tech/categories/products/</link>
-    <description>Recent content in Products on Staysail Systems</description>
+    <description>Recent content in products on Staysail Systems</description>
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>info@staysail.tech (Staysail Systems, Inc.)</managingEditor>
-    <webMaster>info@staysail.tech (Staysail Systems, Inc.)</webMaster>
-    
-	<atom:link href="https://staysail.tech/categories/products/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <webMaster>info@staysail.tech (Staysail Systems, Inc.)</webMaster><atom:link href="https://staysail.tech/categories/products/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Products</title>
       <link>https://staysail.tech/products/</link>
@@ -18,10 +14,10 @@
       <author>info@staysail.tech (Staysail Systems, Inc.)</author>
       <guid>https://staysail.tech/products/</guid>
       <description>Products Staysail Systems, Inc. offers the following products:
-   wolfSSL plugin support for NNG.
+wolfSSL plugin support for NNG.
 A free version is available on GitHub under GPLv3.0, but we also provide a commercially licensed version. This enables commercial applications and FIPS 140-2 validated solutions, and TLS 1.3 to be created with NNG.
-   matrixSSL plugin support for NNG.
-(Forthcoming.) This plugin will provide support for solutions using matrix SSL with NNG.</description>
+matrixSSL plugin support for NNG.
+(Forthcoming.) This plugin will provide support for solutions using matrix SSL with NNG. As with the wolfSSL plugin, this should enable the possiblity of creating FIPS 140-2 validated solutions.</description>
     </item>
     
   </channel>
