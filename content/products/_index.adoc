@@ -30,3 +30,10 @@ Contact us to discuss details.
 
 Please contact us at info@staysail.tech so that we may discuss your
 needs and to obtain a quote.
+
+* Language plugins for the https://nova.app[Nova] editor for macOS
+
+We have contributed several free, open-source plugins for the Nova
+editor, which should make it more functional and friendly for
+developing systems software.  (Specifically we have provided
+Syntax support for C, D, and CMake.)
