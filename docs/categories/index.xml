@@ -4,54 +4,46 @@
     <title>Categories on Staysail Systems</title>
     <link>https://staysail.tech/categories/</link>
     <description>Recent content in Categories on Staysail Systems</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
+    <language>en</language>
     <managingEditor>info@staysail.tech (Staysail Systems, Inc.)</managingEditor>
     <webMaster>info@staysail.tech (Staysail Systems, Inc.)</webMaster>
-    <lastBuildDate>Mon, 20 Nov 2017 16:59:48 -0800</lastBuildDate><atom:link href="https://staysail.tech/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 20 Nov 2017 16:59:48 -0800</lastBuildDate>
+    <atom:link href="https://staysail.tech/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>about</title>
+      <title>About</title>
       <link>https://staysail.tech/categories/about/</link>
-      <pubDate>Mon, 20 Nov 2017 16:59:48 -0800</pubDate>
-      <author>info@staysail.tech (Staysail Systems, Inc.)</author>
+      <pubDate>Mon, 20 Nov 2017 16:59:48 -0800</pubDate><author>info@staysail.tech (Staysail Systems, Inc.)</author>
       <guid>https://staysail.tech/categories/about/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>support</title>
+      <title>Support</title>
       <link>https://staysail.tech/categories/support/</link>
-      <pubDate>Mon, 20 Nov 2017 16:59:48 -0800</pubDate>
-      <author>info@staysail.tech (Staysail Systems, Inc.)</author>
+      <pubDate>Mon, 20 Nov 2017 16:59:48 -0800</pubDate><author>info@staysail.tech (Staysail Systems, Inc.)</author>
       <guid>https://staysail.tech/categories/support/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>team</title>
+      <title>Team</title>
       <link>https://staysail.tech/categories/team/</link>
-      <pubDate>Mon, 20 Nov 2017 16:59:48 -0800</pubDate>
-      <author>info@staysail.tech (Staysail Systems, Inc.)</author>
+      <pubDate>Mon, 20 Nov 2017 16:59:48 -0800</pubDate><author>info@staysail.tech (Staysail Systems, Inc.)</author>
       <guid>https://staysail.tech/categories/team/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>books</title>
+      <title>Books</title>
       <link>https://staysail.tech/categories/books/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>info@staysail.tech (Staysail Systems, Inc.)</author>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@staysail.tech (Staysail Systems, Inc.)</author>
       <guid>https://staysail.tech/categories/books/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>products</title>
+      <title>Products</title>
       <link>https://staysail.tech/categories/products/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>info@staysail.tech (Staysail Systems, Inc.)</author>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@staysail.tech (Staysail Systems, Inc.)</author>
       <guid>https://staysail.tech/categories/products/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

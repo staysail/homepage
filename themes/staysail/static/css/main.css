@@ -19,14 +19,14 @@ p {
   margin: 30px 0;
 }
 p a {
-  /* text-decoration: underline */
-  color: #008AFF;
+  text-decoration: underline;
+  color: #006dcc;
 }
 h1,h2,h3,h4,h5,h6 {
   font-family: 'Ubuntu', 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 a {
-  color: #008AFF;
+  color: #006dcc;
 }
 a:hover,
 a:focus {
@@ -282,6 +282,10 @@ footer .list-inline {
   margin: 0;
   padding: 0;
 }
+footer .credits {
+  color: #666;
+}
+
 footer .copyright {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   text-align: center;
@@ -399,14 +403,14 @@ footer .theme-by {
 }
 
 .blog-tags a {
-  color: #008AFF;
+  color: #006dcc;
   text-decoration: none;
   padding: 0px 5px;
 }
 
 .blog-tags a:hover {
   border-radius: 2px;
-  color: #008AFF;
+  color: #006dcc;
   background-color: #CCC;
 }
 

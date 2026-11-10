@@ -1,7 +1,7 @@
 <head>
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <!-- Site Title, Description, Author, and Favicon -->
 {{- with .Title | default .Site.Title }}
   <title>{{ . }}</title>
@@ -13,7 +13,7 @@
   <meta property="og:description" content="{{ . }}">
   <meta name="twitter:description" content="{{ . | truncate 200 }}">
 {{- end }}
-  <meta name="author" content="{{ .Site.Author.name }}"/>
+  <meta name="author" content="{{ .Site.Params.author.name }}"/>
 {{- with .Site.Params.favicon }}
   <link href='{{ . | absURL }}' rel='icon' type='image/x-icon'/>
 {{- end -}}
@@ -23,7 +23,7 @@
   <meta name="twitter:image" content="{{ . | absURL }}" />
 {{- end }}
   <meta name="twitter:card" content="summary" />
-{{- with .Site.Author.twitter }}
+{{- with .Site.Params.author.twitter }}
   <meta name="twitter:site" content="@{{ . }}" />
   <meta name="twitter:creator" content="@{{ . }}" />
 {{- end }}
@@ -51,6 +51,6 @@
   {{- end -}}
 
 {{- partial "head_custom.html" . }}
-{{- partial "load-photoswipe-theme.html" . }}
-{{ template "_internal/google_analytics_async.html" . }}
+{{- partial "photoswipe-styles.html" . }}
+{{ partial "google_analytics.html" . }}
 </head>

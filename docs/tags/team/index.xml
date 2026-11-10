@@ -1,23 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>team on Staysail Systems</title>
+    <title>Team on Staysail Systems</title>
     <link>https://staysail.tech/tags/team/</link>
-    <description>Recent content in team on Staysail Systems</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Team on Staysail Systems</description>
+    <generator>Hugo</generator>
+    <language>en</language>
     <managingEditor>info@staysail.tech (Staysail Systems, Inc.)</managingEditor>
     <webMaster>info@staysail.tech (Staysail Systems, Inc.)</webMaster>
-    <lastBuildDate>Mon, 20 Nov 2017 16:59:48 -0800</lastBuildDate><atom:link href="https://staysail.tech/tags/team/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 20 Nov 2017 16:59:48 -0800</lastBuildDate>
+    <atom:link href="https://staysail.tech/tags/team/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Team</title>
       <link>https://staysail.tech/team/</link>
-      <pubDate>Mon, 20 Nov 2017 16:59:48 -0800</pubDate>
-      <author>info@staysail.tech (Staysail Systems, Inc.)</author>
+      <pubDate>Mon, 20 Nov 2017 16:59:48 -0800</pubDate><author>info@staysail.tech (Staysail Systems, Inc.)</author>
       <guid>https://staysail.tech/team/</guid>
-      <description>Garrett D’Amore, CTO &amp;amp; Founder Garrett has over 2 decades of experience building technologies for networking, systems, and storage, and leading technical teams to success.
-He is most widely known as the founder of illumos, and the maintainer of nanomsg, but has developed software used in FreeBSD, NetBSD, Solaris, ZFS and others.
-He was also known for his work at Sun on the PSARC committee, which was responsible for the technical direction of Solaris.</description>
+      <description>&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_garrett_damore_cto_founder&#34;&gt;Garrett D’Amore, CTO &amp;amp; Founder&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;imageblock right&#34;&gt;&#xA;&lt;div class=&#34;content&#34;&gt;&#xA;&lt;img src=&#34;https://staysail.tech/img/garrett.png&#34; alt=&#34;garrett&#34; width=&#34;133&#34;/&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Garrett has over 2 decades of experience building technologies&#xA;for networking, systems, and storage, and leading technical teams to success.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;He is most widely known as&#xA;the founder of &lt;a href=&#34;http://www.illumos.org&#34;&gt;illumos&lt;/a&gt;, and the maintainer of&#xA;&lt;a href=&#34;http://www.nanomsg.org&#34;&gt;nanomsg&lt;/a&gt;, but has developed software used in&#xA;&lt;a href=&#34;http://www.freebsd.org&#34;&gt;FreeBSD&lt;/a&gt;, &lt;a href=&#34;http://www.netbsd.org&#34;&gt;NetBSD&lt;/a&gt;,&#xA;&lt;a href=&#34;http://www.oracle.com/solaris&#34;&gt;Solaris&lt;/a&gt;, &lt;a href=&#34;http://www.openzfs.org&#34;&gt;ZFS&lt;/a&gt; and others.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;He was also known for his work at Sun on the PSARC committee,&#xA;which was responsible for the technical direction of Solaris.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Garrett led technical teams at companies like AMD, Qualcomm,&#xA;Nexenta, and Sun Microsystems, as well as smaller companies like DEY&#xA;Storage Systems.  Distributed team technical leadership is a core competency&#xA;for Garrett.&lt;/p&gt;&#xA;&lt;/div&gt;</description>
     </item>
-    
   </channel>
 </rss>

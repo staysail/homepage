@@ -1,23 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>about on Staysail Systems</title>
+    <title>About on Staysail Systems</title>
     <link>https://staysail.tech/categories/about/</link>
-    <description>Recent content in about on Staysail Systems</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in About on Staysail Systems</description>
+    <generator>Hugo</generator>
+    <language>en</language>
     <managingEditor>info@staysail.tech (Staysail Systems, Inc.)</managingEditor>
     <webMaster>info@staysail.tech (Staysail Systems, Inc.)</webMaster>
-    <lastBuildDate>Mon, 20 Nov 2017 16:59:48 -0800</lastBuildDate><atom:link href="https://staysail.tech/categories/about/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 20 Nov 2017 16:59:48 -0800</lastBuildDate>
+    <atom:link href="https://staysail.tech/categories/about/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
       <link>https://staysail.tech/about/</link>
-      <pubDate>Mon, 20 Nov 2017 16:59:48 -0800</pubDate>
-      <author>info@staysail.tech (Staysail Systems, Inc.)</author>
+      <pubDate>Mon, 20 Nov 2017 16:59:48 -0800</pubDate><author>info@staysail.tech (Staysail Systems, Inc.)</author>
       <guid>https://staysail.tech/about/</guid>
-      <description>Staysail Systems develops software for distributed and embedded systems, ranging from IoT embedded devices to large scale enterprise systems.
-We are experts in scalable and performant communications.
-Staysail is also a contributor to the open source ecosystem; we develop in C and Go, and our founders have produced some of the more widely used systems that power the Internet today.</description>
+      <description>&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Staysail Systems develops software for distributed and embedded systems,&#xA;ranging from IoT embedded devices to large scale enterprise systems.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;We are experts in scalable and performant communications.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Staysail is also a contributor to the open source ecosystem; we develop&#xA;in C and Go, and our founders have produced some of the more widely&#xA;used systems that power the Internet today.&lt;/p&gt;&#xA;&lt;/div&gt;</description>
     </item>
-    
   </channel>
 </rss>

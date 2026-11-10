@@ -4,9 +4,9 @@
       <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
         <ul class="list-inline text-center footer-links">
           {{ range .Site.Data.beautifulhugo.social.social_icons }}
-            {{- if isset $.Site.Author .id }}
+            {{- if isset $.Site.Params.author .id }}
               <li>
-                <a href="{{ printf .url (index $.Site.Author .id) }}" title="{{ .title }}">
+                <a href="{{ printf .url (index $.Site.Params.author .id) }}" title="{{ .title }}">
                   <font color="#1e468f">
                   <span class="fa-stack fa-lg">
                     <i class="fa fa-circle fa-stack-2x"></i>
@@ -29,10 +29,9 @@
           {{ end }}
         </ul>
         <p class="credits copyright text-muted">
-&copy; 2022 Staysail Systems, Inc.
+&copy; 2022&ndash;2026 Staysail Systems, Inc.
 <br />
 Staysail Systems and the Staysail Logo are trademarks of Staysail Systems, Inc.
-<!--          {{ .Site.LastChange.Format "2006" }} -->
         </p>
         <!-- Please don't remove this, keep my open source work credited :) -->
         <p class="credits theme-by text-muted">

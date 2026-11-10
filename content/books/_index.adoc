@@ -14,7 +14,7 @@ share our expertise with you.
 
 [cols="1,5",grid="horizontal",frame="none"]
 |===
-^.^a|image::../img/nng_manual_thumb.png[,255,,align="top"]
+^.^a|image::/img/nng_manual_thumb.png[,255,,align="top"]
 a|__**NNG Reference Manual__** +
 _Written by Garrett D'Amore_
  +
@@ -25,9 +25,9 @@ the project.
  +
  +
 For more information, including purchasing and availability, please see the
-<<nng_reference/index.adoc#,homepage>> for the book.
+link:/books/nng_reference/[homepage] for the book.
 
-a|image::../img/staysail.png[,255]
+a|image::/img/staysail.png[,255]
 a|__**Distributed Systems Mastery: An NNG Developer's Guide**__ +
 _Written by Garrett D'Amore_
  +

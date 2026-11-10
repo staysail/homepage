@@ -1,43 +1,34 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>books on Staysail Systems</title>
+    <title>Books on Staysail Systems</title>
     <link>https://staysail.tech/tags/books/</link>
-    <description>Recent content in books on Staysail Systems</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Books on Staysail Systems</description>
+    <generator>Hugo</generator>
+    <language>en</language>
     <managingEditor>info@staysail.tech (Staysail Systems, Inc.)</managingEditor>
-    <webMaster>info@staysail.tech (Staysail Systems, Inc.)</webMaster><atom:link href="https://staysail.tech/tags/books/index.xml" rel="self" type="application/rss+xml" />
+    <webMaster>info@staysail.tech (Staysail Systems, Inc.)</webMaster>
+    <atom:link href="https://staysail.tech/tags/books/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Books</title>
       <link>https://staysail.tech/books/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>info@staysail.tech (Staysail Systems, Inc.)</author>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@staysail.tech (Staysail Systems, Inc.)</author>
       <guid>https://staysail.tech/books/</guid>
-      <description>Books We Have Published In addition to offering custom development and consulting services, we at Staysail Systems have authored the following books, helping us to share our expertise with you.
-NNG Reference Manual Written by Garrett D’Amore This manual is the authoritative and official reference for the NNG project, encompassing the entire set of manual pages produced for the project. For more information, including purchasing and availability, please see the homepage for the book.</description>
+      <description>&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_books_we_have_published&#34;&gt;Books We Have Published&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;In addition to offering custom development and consulting services,&#xA;we at Staysail Systems have authored the following books, helping us to&#xA;share our expertise with you.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;table class=&#34;tableblock frame-none grid-horizontal stretch&#34;&gt;&#xA;&lt;colgroup&gt;&#xA;&lt;col style=&#34;width: 16.6666%;&#34;/&gt;&#xA;&lt;col style=&#34;width: 83.3334%;&#34;/&gt;&#xA;&lt;/colgroup&gt;&#xA;&lt;tbody&gt;&#xA;&lt;tr&gt;&#xA;&lt;td class=&#34;tableblock halign-center valign-middle&#34;&gt;&lt;div class=&#34;content&#34;&gt;&lt;div class=&#34;imageblock text-top&#34;&gt;&#xA;&lt;div class=&#34;content&#34;&gt;&#xA;&lt;img src=&#34;https://staysail.tech/img/nng_manual_thumb.png&#34; alt=&#34;nng manual thumb&#34; width=&#34;255&#34;/&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&lt;/div&gt;&lt;/td&gt;&#xA;&lt;td class=&#34;tableblock halign-left valign-top&#34;&gt;&lt;div class=&#34;content&#34;&gt;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;&lt;em&gt;&lt;strong&gt;NNG Reference Manual&lt;/strong&gt;&lt;/em&gt;&lt;br/&gt;&#xA;&lt;em&gt;Written by Garrett D’Amore&lt;/em&gt;&#xA;&lt;br/&gt;&#xA;&lt;br/&gt;&#xA;This manual is the authoritative and official reference for the NNG&#xA;project, encompassing the entire set of manual pages produced for&#xA;the project.&#xA;&lt;br/&gt;&#xA;&lt;br/&gt;&#xA;For more information, including purchasing and availability, please see the&#xA;&lt;a href=&#34;https://staysail.tech/books/nng_reference/&#34;&gt;homepage&lt;/a&gt; for the book.&lt;/p&gt;&#xA;&lt;/div&gt;</description>
     </item>
-    
     <item>
       <title>NNG Reference Manual</title>
       <link>https://staysail.tech/books/nng_reference/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>info@staysail.tech (Staysail Systems, Inc.)</author>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@staysail.tech (Staysail Systems, Inc.)</author>
       <guid>https://staysail.tech/books/nng_reference/</guid>
-      <description>Written by Garrett D’Amore This manual is the authoritative and official reference for the NNG project, encompassing the entire set of manual pages produced for the project.
-Availability While the content is available as part of the NNG project, you can also purchase a paperback desk edition, or electronic book formats compatible with all popular e-readers.
-Purchases of this book help defray the costs incurred in producing it and keeping it updated, and also help fund further development of NNG itself.</description>
+      <description>&lt;div class=&#34;imageblock right thumb&#34;&gt;&#xA;&lt;div class=&#34;content&#34;&gt;&#xA;&lt;img src=&#34;../../img/nng_manual_thumb.png&#34; alt=&#34;nng manual thumb&#34; width=&#34;160&#34; height=&#34;240&#34;/&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_written_by_garrett_damore&#34;&gt;&lt;em&gt;Written by Garrett D’Amore&lt;/em&gt;&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;This manual is the authoritative and official reference for the&#xA;&lt;a href=&#34;https://github.com/nanomsg/nng&#34;&gt;NNG&lt;/a&gt;&#xA;project, encompassing the entire set of manual pages produced for&#xA;the project.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_availability&#34;&gt;Availability&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;While the content is available as part of the NNG project, you can&#xA;also purchase a paperback desk edition, or electronic book formats&#xA;compatible with all popular e-readers.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Purchases of this book help defray the costs&#xA;incurred in producing it and keeping it updated, and also help fund&#xA;further development of NNG itself.&lt;/p&gt;&#xA;&lt;/div&gt;</description>
     </item>
-    
     <item>
       <title>NNG Reference Manual (Errata)</title>
       <link>https://staysail.tech/books/nng_reference/errata/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>info@staysail.tech (Staysail Systems, Inc.)</author>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@staysail.tech (Staysail Systems, Inc.)</author>
       <guid>https://staysail.tech/books/nng_reference/errata/</guid>
-      <description>NNG Reference Manual Only issues found with the books are reported here. The NNG manual pages located on the NNG are tracked and updated using the NNG GitHub Issues page.
-(Second Edition, November 2018) Running titles on the print edition wind up extending into the separator pages for sections. This is a formatting bug and has no consequence on the actual content.
-The nng_http_client_connect() description of the NNG_EADDRINVAL refers to a problem on the server, when it should have said client.</description>
+      <description>&lt;div class=&#34;sect2&#34;&gt;&#xA;&lt;h3 id=&#34;_nng_reference_manual&#34;&gt;&lt;em&gt;NNG Reference Manual&lt;/em&gt;&lt;/h3&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Only issues found with the &lt;strong&gt;books&lt;/strong&gt; are reported here.&#xA;The NNG manual pages located on the NNG are tracked and updated&#xA;using the &lt;a href=&#34;https://github.com/nanomsg/nng/issues&#34;&gt;NNG GitHub Issues&lt;/a&gt;&#xA;page.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;sect3&#34;&gt;&#xA;&lt;h4 id=&#34;_second_edition_november_2018&#34;&gt;(Second Edition, November 2018)&lt;/h4&gt;&#xA;&lt;div class=&#34;olist arabic&#34;&gt;&#xA;&lt;ol class=&#34;arabic&#34;&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Running titles on the print edition wind up extending into&#xA;the separator pages for sections.  This is a formatting bug and has&#xA;no consequence on the actual content.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;The &lt;code&gt;nng_http_client_connect()&lt;/code&gt; description of the &lt;code&gt;NNG_EADDRINVAL&lt;/code&gt;&#xA;refers to a problem on the server, when it should have said client.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;The &lt;code&gt;nng_listen()&lt;/code&gt; and &lt;code&gt;nng_listener_start()&lt;/code&gt; functions do not support&#xA;the &lt;code&gt;NNG_FLAG_NONBLOCK&lt;/code&gt; flag at this time.  The &lt;code&gt;flags&lt;/code&gt; argument to&#xA;these functions is reserved for future use.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/div&gt;</description>
     </item>
-    
   </channel>
 </rss>

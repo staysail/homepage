@@ -7,6 +7,7 @@ pygmentCodeFences = true
 #googleAnalytics = "XXX"
 #canonifyurls = false
 publishdir = "docs"
+enableRobotsTXT = true
 title = "Staysail Systems"
 theme = "staysail"
 
@@ -24,7 +25,7 @@ theme = "staysail"
     comments = false
     rss = false
 
-[Author]
+[Params.author]
   name = "Staysail Systems, Inc."
   website = "www.staysail.tech"
   email = "info@staysail.tech"
