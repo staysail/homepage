@@ -1,0 +1,10 @@
+<article class="team-profile" aria-labelledby="{{ .Get "id" }}">
+  <img class="team-profile-portrait" src="{{ .Get "portrait" | relURL }}" width="480" height="480" alt="">
+  <header class="team-profile-heading">
+    <h2 id="{{ .Get "id" }}">{{ .Get "name" }}</h2>
+    <p>{{ .Get "role" }}</p>
+  </header>
+  <div class="team-profile-bio">
+    {{ .Page.RenderString (dict "display" "block") (strings.TrimSpace .Inner) }}
+  </div>
+</article>

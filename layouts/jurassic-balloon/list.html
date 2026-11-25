@@ -1,0 +1,36 @@
+{{ define "header" }}{{ "" }}{{ end }}
+
+{{ define "main" }}
+<main id="jurassic-balloon" class="jb">
+  <section class="jb-hero" aria-labelledby="jb-title">
+    <div class="jb-hero-copy">
+      <h1 id="jb-title">{{ .Title }}</h1>
+      <p>{{ .Params.subtitle }}</p>
+      <a class="jb-play" href="{{ .Params.itch }}">Play free on itch.io</a>
+      <span class="jb-preview">Five-level browser preview</span>
+    </div>
+    <img src="{{ .Params.image | relURL }}" width="1280" height="720" fetchpriority="high"
+         alt="A hot-air balloon glides above a family of dinosaurs in Fern Valley.">
+  </section>
+
+  <div class="jb-body">
+    <div class="jb-gallery" aria-label="Gameplay screenshots" role="group">
+      {{ range .Params.screenshots }}
+      <figure>
+        <img src="{{ printf "jurassic-balloon/%s" .image | relURL }}" width="1280" height="720" loading="lazy" alt="{{ .alt }}">
+        <figcaption>{{ .title }}</figcaption>
+      </figure>
+      {{ end }}
+    </div>
+
+    <div class="jb-details">
+      {{ .Content }}
+      <ul class="jb-links">
+        <li><a href="{{ .Params.itch }}/community">itch.io community</a></li>
+        <li><a href="{{ .Params.itch }}/devlog">Development log</a></li>
+        <li>{{ with .GetPage "privacy" }}<a href="{{ .RelPermalink }}">Privacy policy</a>{{ end }}</li>
+      </ul>
+    </div>
+  </div>
+</main>
+{{ end }}

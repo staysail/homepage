@@ -38,12 +38,5 @@
       <guid>https://staysail.tech/categories/books/</guid>
       <description></description>
     </item>
-    <item>
-      <title>Products</title>
-      <link>https://staysail.tech/categories/products/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@staysail.tech (Staysail Systems, Inc.)</author>
-      <guid>https://staysail.tech/categories/products/</guid>
-      <description></description>
-    </item>
   </channel>
 </rss>

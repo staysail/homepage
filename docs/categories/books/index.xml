@@ -10,13 +10,6 @@
     <webMaster>info@staysail.tech (Staysail Systems, Inc.)</webMaster>
     <atom:link href="https://staysail.tech/categories/books/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Books</title>
-      <link>https://staysail.tech/books/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@staysail.tech (Staysail Systems, Inc.)</author>
-      <guid>https://staysail.tech/books/</guid>
-      <description>&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_books_we_have_published&#34;&gt;Books We Have Published&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;In addition to offering custom development and consulting services,&#xA;we at Staysail Systems have authored the following books, helping us to&#xA;share our expertise with you.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;table class=&#34;tableblock frame-none grid-horizontal stretch&#34;&gt;&#xA;&lt;colgroup&gt;&#xA;&lt;col style=&#34;width: 16.6666%;&#34;/&gt;&#xA;&lt;col style=&#34;width: 83.3334%;&#34;/&gt;&#xA;&lt;/colgroup&gt;&#xA;&lt;tbody&gt;&#xA;&lt;tr&gt;&#xA;&lt;td class=&#34;tableblock halign-center valign-middle&#34;&gt;&lt;div class=&#34;content&#34;&gt;&lt;div class=&#34;imageblock text-top&#34;&gt;&#xA;&lt;div class=&#34;content&#34;&gt;&#xA;&lt;img src=&#34;https://staysail.tech/img/nng_manual_thumb.png&#34; alt=&#34;nng manual thumb&#34; width=&#34;255&#34;/&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&lt;/div&gt;&lt;/td&gt;&#xA;&lt;td class=&#34;tableblock halign-left valign-top&#34;&gt;&lt;div class=&#34;content&#34;&gt;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;&lt;em&gt;&lt;strong&gt;NNG Reference Manual&lt;/strong&gt;&lt;/em&gt;&lt;br/&gt;&#xA;&lt;em&gt;Written by Garrett D’Amore&lt;/em&gt;&#xA;&lt;br/&gt;&#xA;&lt;br/&gt;&#xA;This manual is the authoritative and official reference for the NNG&#xA;project, encompassing the entire set of manual pages produced for&#xA;the project.&#xA;&lt;br/&gt;&#xA;&lt;br/&gt;&#xA;For more information, including purchasing and availability, please see the&#xA;&lt;a href=&#34;https://staysail.tech/books/nng_reference/&#34;&gt;homepage&lt;/a&gt; for the book.&lt;/p&gt;&#xA;&lt;/div&gt;</description>
-    </item>
-    <item>
       <title>NNG Reference Manual</title>
       <link>https://staysail.tech/books/nng_reference/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@staysail.tech (Staysail Systems, Inc.)</author>

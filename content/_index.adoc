@@ -7,4 +7,6 @@ To find out more, mailto:info@staysail.tech[contact us].
 We are open-source friendly, and frequent contributors to many open source projects.
 
 Learn more about link:/about/[Staysail Systems, Inc.],
-our link:/team/[team], link:/products/[products], and link:/books/[books].
+our link:/team/[team], and our link:/projects/[projects].
+
+Try link:/jurassic-balloon/[Jurassic Balloon], our prehistoric balloon adventure.

@@ -1,0 +1,5 @@
+{{- if eq .Section "jurassic-balloon" }}
+  <link rel="stylesheet" href="{{ "css/jurassic-balloon.css" | relURL }}?v=2">
+{{- else if and .IsSection (eq .Section "team") }}
+  <link rel="stylesheet" href="{{ "css/team.css" | relURL }}">
+{{ end -}}

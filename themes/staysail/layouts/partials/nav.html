@@ -10,6 +10,12 @@
       <a class="navbar-brand" href="{{ "" | absLangURL }}">{{ .Site.Title }}</a>
     </div>
 
+    {{ with .Site.Params.logo }}
+      <a class="navbar-logo" href="{{ "" | absLangURL }}" aria-label="{{ $.Site.Title }} home">
+        <img src="{{ . | absURL }}" alt="" width="44" height="44">
+      </a>
+    {{ end }}
+
     <div class="collapse navbar-collapse" id="main-navbar">
       <ul class="nav navbar-nav navbar-right">
         {{ range .Site.Menus.main.ByWeight }}
@@ -60,16 +66,6 @@
           </li>
         {{ end }}
       </ul>
-    </div>
-
-    <div class="avatar-container">
-      <div class="avatar-img-border">
-        {{ if isset .Site.Params "logo" }}
-          <a title="{{ .Site.Title }}" href="{{ "" | absLangURL }}">
-            <img class="avatar-img" src="{{ .Site.Params.logo | absURL }}" alt="{{ .Site.Title }}" />
-          </a>
-        {{ end }}
-      </div>
     </div>
 
   </div>
